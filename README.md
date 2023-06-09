@@ -1,0 +1,1 @@
+# keplr-app-registry
