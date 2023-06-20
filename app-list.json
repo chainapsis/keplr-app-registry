@@ -1,0 +1,27 @@
+{
+  "list": [
+    {
+      "appCategory": "DeFi",
+      "appName": "Osmosis",
+      "appSummary": "The largest interchain DEX",
+      "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/osmosis/chain.png",
+      "appWebsiteUrl": "https://app.osmosis.zone",
+      "externalUrls": {
+        "twitter": "https://twitter.com/osmosiszone",
+        "github": "https://github.com/osmosis-labs",
+        "discord": "https://discord.com/invite/osmosis"
+      }
+    },
+    {
+      "appCategory": "Social",
+      "appName": "ICNS",
+      "appSummary": "Your identity for the Interchain.",
+      "appIconUrl": "https://avatars.githubusercontent.com/u/117661397?s=200&v=4",
+      "appWebsiteUrl": "https://app.icns.xyz",
+      "externalUrls": {
+        "twitter": "https://twitter.com/icns_xyz",
+        "github": "https://github.com/icns-xyz"
+      }
+    }
+  ]
+}
