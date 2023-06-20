@@ -31,7 +31,8 @@
       "appWebsiteUrl": "https://www.stargaze.zone/",
       "externalUrls": {
         "twitter": "https://twitter.com/stargazezone",
-        "github": "https://github.com/public-awesome"
+        "github": "https://github.com/public-awesome",
+        "discord": "https://discord.com/invite/stargaze"
       }
     },
     {
@@ -42,7 +43,8 @@
       "appWebsiteUrl": "https://app.stride.zone/",
       "externalUrls": {
         "twitter": "https://twitter.com/stride_zone",
-        "github": "https://github.com/Stride-Labs/stride/"
+        "github": "https://github.com/Stride-Labs/stride/",
+        "discord": "https://discord.com/invite/stride-zone"
       }
     },
     {
@@ -53,7 +55,8 @@
       "appWebsiteUrl": "https://app.quicksilver.zone/",
       "externalUrls": {
         "twitter": "https://twitter.com/quicksilverzone",
-        "github": "https://github.com/ingenuity-build/"
+        "github": "https://github.com/ingenuity-build/",
+        "discord": "https://discord.com/invite/xrSmYMDVrQ"
       }
     },
     {
@@ -64,7 +67,32 @@
       "appWebsiteUrl": "https://app.pstake.finance/",
       "externalUrls": {
         "twitter": "https://twitter.com/pStakeFinance",
-        "github": "https://github.com/persistenceOne"
+        "github": "https://github.com/persistenceOne",
+        "discord": "https://discord.com/invite/2ek5rUyT8x"
+      }
+    },
+    {
+      "appCategory": "DAO",
+      "appName": "DAO DAO",
+      "appSummary": "A DAO building DAO tooling. Built on Juno.",
+      "appIconUrl": "https://raw.githubusercontent.com/DA0-DA0/docs/02a54efb685a2dd93211c0f214cbe7db98a773d7/static/img/daodao.png",
+      "appWebsiteUrl": "https://daodao.zone/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/DA0_DA0",
+        "github": "https://github.com/DA0-DA0",
+        "discord": "https://discord.com/invite/sAaGuyW3D2"
+      }
+    },
+    {
+      "appCategory": "Tool",
+      "appName": "Squid Router",
+      "appSummary": "Swap tokens between blockchains. EVM + Cosmos. Powered by Axelar.",
+      "appIconUrl": "https://3645726461-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FtXbXyuWIO2PwzNc5Dets%2Fuploads%2FRvZLeDNOlNDWQ7fmd1p5%2FSquid_Icon_Logo_Yellow.svg?alt=media&token=4173e23b-c8a0-4c9c-8a38-7a8df689f6be",
+      "appWebsiteUrl": "https://app.squidrouter.com/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/squidrouter",
+        "github": "https://github.com/0xsquid",
+        "discord": "https://discord.com/invite/squidrouter"
       }
     }
   ]
