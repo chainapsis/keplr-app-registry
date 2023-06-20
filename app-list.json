@@ -3,7 +3,7 @@
     {
       "appCategory": "DeFi",
       "appName": "Osmosis",
-      "appSummary": "The largest interchain DEX",
+      "appSummary": "The largest Interchain DEX and cross-chain AMM.",
       "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/osmosis/chain.png",
       "appWebsiteUrl": "https://app.osmosis.zone",
       "externalUrls": {
@@ -15,12 +15,56 @@
     {
       "appCategory": "Social",
       "appName": "ICNS",
-      "appSummary": "Your identity for the Interchain.",
+      "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
       "appIconUrl": "https://avatars.githubusercontent.com/u/117661397?s=200&v=4",
       "appWebsiteUrl": "https://app.icns.xyz",
       "externalUrls": {
         "twitter": "https://twitter.com/icns_xyz",
         "github": "https://github.com/icns-xyz"
+      }
+    },
+    {
+      "appCategory": "NFT",
+      "appName": "Stargaze",
+      "appSummary": "A community-owned app chain for NFTs and beyond. Mint and trade NFTs.",
+      "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/stargaze/chain.png",
+      "appWebsiteUrl": "https://www.stargaze.zone/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/stargazezone",
+        "github": "https://github.com/public-awesome"
+      }
+    },
+    {
+      "appCategory": "Liquid Staking",
+      "appName": "Stride",
+      "appSummary": "The Liquid Staking Zone. Earn both staking and DeFi yields across the Interchain",
+      "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/stride/chain.png",
+      "appWebsiteUrl": "https://app.stride.zone/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/stride_zone",
+        "github": "https://github.com/Stride-Labs/stride/"
+      }
+    },
+    {
+      "appCategory": "Liquid Staking",
+      "appName": "Quicksilver",
+      "appSummary": "Interchain Liquid Staking for the Cosmos ecosystem and beyond.",
+      "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/quicksilver/chain.png",
+      "appWebsiteUrl": "https://app.quicksilver.zone/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/quicksilverzone",
+        "github": "https://github.com/ingenuity-build/"
+      }
+    },
+    {
+      "appCategory": "Liquid Staking",
+      "appName": "pSTAKE",
+      "appSummary": "Unlocking Liquidity for Staked Assets. Stake your PoS assets while earning DeFi yields.",
+      "appIconUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg",
+      "appWebsiteUrl": "https://app.pstake.finance/",
+      "externalUrls": {
+        "twitter": "https://twitter.com/pStakeFinance",
+        "github": "https://github.com/persistenceOne"
       }
     }
   ]
