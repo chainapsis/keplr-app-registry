@@ -1,0 +1,12 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Osmosis",
+  "appSummary": "The largest Interchain DEX and cross-chain AMM.",
+  "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/osmosis/chain.png",
+  "appWebsiteUrl": "https://app.osmosis.zone",
+  "externalUrls": {
+    "twitter": "https://twitter.com/osmosiszone",
+    "github": "https://github.com/osmosis-labs",
+    "discord": "https://discord.com/invite/osmosis"
+  }
+}

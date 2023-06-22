@@ -1,0 +1,12 @@
+{
+  "appCategory": "DAO",
+  "appName": "DAO DAO",
+  "appSummary": "A DAO building DAO tooling. Built on Juno.",
+  "appIconUrl": "https://raw.githubusercontent.com/DA0-DA0/docs/02a54efb685a2dd93211c0f214cbe7db98a773d7/static/img/daodao.png",
+  "appWebsiteUrl": "https://daodao.zone/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/DA0_DA0",
+    "github": "https://github.com/DA0-DA0",
+    "discord": "https://discord.com/invite/sAaGuyW3D2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "appCategory": "Liquid Staking",
+  "appName": "Stride",
+  "appSummary": "The Liquid Staking Zone. Earn both staking and DeFi yields across the Interchain",
+  "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/stride/chain.png",
+  "appWebsiteUrl": "https://app.stride.zone/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/stride_zone",
+    "github": "https://github.com/Stride-Labs/stride/",
+    "discord": "https://discord.com/invite/stride-zone"
+  }
+}

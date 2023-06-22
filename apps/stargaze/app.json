@@ -1,0 +1,12 @@
+{
+  "appCategory": "NFT",
+  "appName": "Stargaze",
+  "appSummary": "A community-owned app chain for NFTs and beyond. Mint and trade NFTs.",
+  "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/stargaze/chain.png",
+  "appWebsiteUrl": "https://www.stargaze.zone/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/stargazezone",
+    "github": "https://github.com/public-awesome",
+    "discord": "https://discord.com/invite/stargaze"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "appCategory": "Liquid Staking",
+  "appName": "Quicksilver",
+  "appSummary": "Interchain Liquid Staking for the Cosmos ecosystem and beyond.",
+  "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/quicksilver/chain.png",
+  "appWebsiteUrl": "https://app.quicksilver.zone/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/quicksilverzone",
+    "github": "https://github.com/ingenuity-build/",
+    "discord": "https://discord.com/invite/xrSmYMDVrQ"
+  }
+}

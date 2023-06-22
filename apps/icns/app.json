@@ -1,0 +1,11 @@
+{
+  "appCategory": "Social",
+  "appName": "ICNS",
+  "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
+  "appIconUrl": "https://avatars.githubusercontent.com/u/117661397?s=200&v=4",
+  "appWebsiteUrl": "https://app.icns.xyz",
+  "externalUrls": {
+    "twitter": "https://twitter.com/icns_xyz",
+    "github": "https://github.com/icns-xyz"
+  }
+}
