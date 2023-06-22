@@ -1,0 +1,29 @@
+{
+  "name": "keplr-app-registry",
+  "packageManager": "yarn@3.6.0",
+  "version": "1.0.0",
+  "scripts": {
+    "validate": "ts-node src/pull-request-validation.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chainapsis/keplr-app-registry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chainapsis/keplr-app-registry/issues"
+  },
+  "homepage": "https://github.com/chainapsis/keplr-app-registry#readme",
+  "devDependencies": {
+    "@types/eslint": "^8.40.2",
+    "@types/node": "^20.3.1",
+    "eslint": "^8.43.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
+  },
+  "dependencies": {
+    "image-size": "^1.0.2",
+    "joi": "^17.9.2"
+  }
+}
