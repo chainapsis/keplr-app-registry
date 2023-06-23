@@ -27,4 +27,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
           force: true
-          message: "Update app-list.json file by Github Actions
+          message: "Update app-list.json file by Github Actions"
