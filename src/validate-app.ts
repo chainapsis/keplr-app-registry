@@ -6,7 +6,6 @@ const appSchema = Joi.object({
   appCategory: Joi.string().required(),
   appName: Joi.string().required(),
   appSummary: Joi.string().required(),
-  appIconUrl: Joi.string().required(),
   appWebsiteUrl: Joi.string().required(),
   externalUrls: Joi.object({
     github: Joi.string(),

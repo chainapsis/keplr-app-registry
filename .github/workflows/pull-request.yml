@@ -30,10 +30,18 @@ jobs:
           files: |
             apps/**/app.json
 
-      - name: Validate changed files
+      - name: Validate app.json
         run: |
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             if [[ $file == *"app.json"* ]]; then
               yarn validate-app $file
+            fi
+          done
+
+      - name: Validate icon.png
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            if [[ $file == *"icon.png"* ]]; then
+              yarn validate-icon $file
             fi
           done

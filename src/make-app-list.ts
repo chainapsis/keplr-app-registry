@@ -10,8 +10,11 @@ import { readFile } from "fs/promises";
         "utf-8"
       );
       const app = JSON.parse(appFile);
-      return app;
+      return {
+        ...app,
+        appIconUrl: `https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/${appDirectoryName}/icon.png`,
+      };
     })
   );
-  writeFileSync("./app-list.json", JSON.stringify({ list: appList }));
+  writeFileSync("./app-list.json", JSON.stringify({ list: appList }, null, 4));
 })();

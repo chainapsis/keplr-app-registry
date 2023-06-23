@@ -3,7 +3,8 @@
   "packageManager": "yarn@3.6.0",
   "version": "1.0.0",
   "scripts": {
-    "validate": "ts-node src/validate.ts",
+    "validate-app": "ts-node src/validate-app.ts",
+    "validate-icon": "ts-node src/validate-icon.ts",
     "make-app-list": "ts-node src/make-app-list.ts"
   },
   "repository": {
