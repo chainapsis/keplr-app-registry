@@ -1,12 +1,12 @@
 import sizeOf from "image-size";
 
 (async function main() {
-  const appFilePath = process.argv[2];
-  if (!appFilePath) {
+  const appIconFilePath = process.argv[2];
+  if (!appIconFilePath) {
     throw new Error("No file path provided");
   }
 
-  const appIconDimensions = await sizeOf(appFilePath);
+  const appIconDimensions = await sizeOf(appIconFilePath);
   if (
     appIconDimensions.width === undefined ||
     appIconDimensions.height === undefined

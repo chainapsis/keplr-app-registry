@@ -1,6 +1,5 @@
 import { readFileSync } from "fs";
 import Joi from "joi";
-import sizeOf from "image-size";
 
 const appSchema = Joi.object({
   appCategory: Joi.string().required(),
@@ -26,18 +25,6 @@ const appSchema = Joi.object({
   const { error } = appSchema.validate(app);
   if (error) {
     throw new Error(error.message);
-  }
-
-  const appIconDimensions = await sizeOf(app.appIconUrl);
-  if (
-    appIconDimensions.width === undefined ||
-    appIconDimensions.height === undefined
-  ) {
-    throw new Error("App icon dimensions could not be determined");
-  }
-
-  if (appIconDimensions.width > 256 || appIconDimensions.height > 256) {
-    throw new Error("App icon dimensions are too large");
   }
 
   console.log("Validation successful");
