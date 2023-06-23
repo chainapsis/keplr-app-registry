@@ -25,6 +25,18 @@
         },
         {
             "appCategory": "DeFi",
+            "appName": "Mars Protocol",
+            "appSummary": "Lend, borrow and earn with an autonomous credit protocol in the Cosmos universe.",
+            "appWebsiteUrl": "https://app.marsprotocol.io/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/mars_protocol",
+                "github": "https://github.com/osmosis-labs",
+                "discord": "https://github.com/mars-protocol"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/mars-protocol/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "Osmosis",
             "appSummary": "The largest Interchain DEX and cross-chain AMM.",
             "appWebsiteUrl": "https://app.osmosis.zone",
