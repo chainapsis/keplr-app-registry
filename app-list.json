@@ -4,24 +4,24 @@
             "appCategory": "DAO",
             "appName": "DAO DAO",
             "appSummary": "A DAO building DAO tooling. Built on Juno.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/daodao/icon.png",
             "appWebsiteUrl": "https://daodao.zone/",
             "externalUrls": {
                 "twitter": "https://twitter.com/DA0_DA0",
                 "github": "https://github.com/DA0-DA0",
                 "discord": "https://discord.com/invite/sAaGuyW3D2"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/daodao/icon.png"
         },
         {
             "appCategory": "Social",
             "appName": "ICNS",
             "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png",
             "appWebsiteUrl": "https://app.icns.xyz",
             "externalUrls": {
                 "twitter": "https://twitter.com/icns_xyz",
                 "github": "https://github.com/icns-xyz"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -39,13 +39,13 @@
             "appCategory": "Liquid Staking",
             "appName": "pSTAKE",
             "appSummary": "Unlocking Liquidity for Staked Assets. Stake your PoS assets while earning DeFi yields.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pstake/icon.png",
             "appWebsiteUrl": "https://app.pstake.finance/",
             "externalUrls": {
                 "twitter": "https://twitter.com/pStakeFinance",
                 "github": "https://github.com/persistenceOne",
                 "discord": "https://discord.com/invite/2ek5rUyT8x"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pstake/icon.png"
         },
         {
             "appCategory": "Liquid Staking",
@@ -63,37 +63,37 @@
             "appCategory": "Tool",
             "appName": "Squid Router",
             "appSummary": "Swap tokens between blockchains. EVM + Cosmos. Powered by Axelar.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/squid-router/icon.png",
             "appWebsiteUrl": "https://app.squidrouter.com/",
             "externalUrls": {
                 "twitter": "https://twitter.com/squidrouter",
                 "github": "https://github.com/0xsquid",
                 "discord": "https://discord.com/invite/squidrouter"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/squid-router/icon.png"
         },
         {
             "appCategory": "NFT",
             "appName": "Stargaze",
             "appSummary": "A community-owned app chain for NFTs and beyond. Mint and trade NFTs.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stargaze/icon.png",
             "appWebsiteUrl": "https://www.stargaze.zone/",
             "externalUrls": {
                 "twitter": "https://twitter.com/stargazezone",
                 "github": "https://github.com/public-awesome",
                 "discord": "https://discord.com/invite/stargaze"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stargaze/icon.png"
         },
         {
             "appCategory": "Liquid Staking",
             "appName": "Stride",
             "appSummary": "The Liquid Staking Zone. Earn both staking and DeFi yields across the Interchain",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stride/icon.png",
             "appWebsiteUrl": "https://app.stride.zone/",
             "externalUrls": {
                 "twitter": "https://twitter.com/stride_zone",
                 "github": "https://github.com/Stride-Labs/stride/",
                 "discord": "https://discord.com/invite/stride-zone"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stride/icon.png"
         }
     ]
 }
