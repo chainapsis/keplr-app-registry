@@ -2,7 +2,6 @@
   "appCategory": "Liquid Staking",
   "appName": "pSTAKE",
   "appSummary": "Unlocking Liquidity for Staked Assets. Stake your PoS assets while earning DeFi yields.",
-  "appIconUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/persistence/images/pstake.svg",
   "appWebsiteUrl": "https://app.pstake.finance/",
   "externalUrls": {
     "twitter": "https://twitter.com/pStakeFinance",
