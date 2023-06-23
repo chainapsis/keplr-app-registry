@@ -1,0 +1,30 @@
+name: Pushed to main branch action
+on:
+  push:
+    branches: [main]
+
+jobs:
+  make-app-list:
+    name: Make app list
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup nodejs
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - run: npm install --global yarn
+      - run: yarn install
+
+      - run: yarn make-app-list
+
+      - name: Commit & Push
+        uses: Andro999b/push@v1.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          message: "Update app-list.json file by Github Actions - ${date}"
