@@ -9,9 +9,9 @@ Here’s an overview of the structure of the directory. Please provide the infor
 ```
 .
 ├── apps                       
-│     ├── osmosis              # Name the folder the name of your app
-│     │     ├── app.json       # App information JSON file (file name should be `app.json`)
-│     │     └── icon.png       # App icon image file (png, 256x256 and smaller, file name should be `icon.png`)
+│     ├── osmosis              # Name the folder to match the name of your app
+│     │     ├── app.json       # App information in JSON file (file name should be `app.json`)
+│     │     └── icon.png       # App icon in image file (png, 256x256 or smaller, file name should be `icon.png`)
 │     ├── icns
 │     └── ...
 └── ...
@@ -42,5 +42,5 @@ Please note that you need to comply with our requirements when filling out the f
 - `externalUrls`: Provide the links to your app's official social accounts. Currently we only support: `Twitter`, `Github`, and `Discord`.
 
 ## NOTE:
-- Please check if the app information file is in JSON format.
-- App icon should be in PNG format in 256x256px and smaller resolution. Please also note that the images will be automatically cropped into a circle to be displayed on Keplr Dashboard
+- Please double-check if the app information file is in JSON format.
+- App icon should be in PNG format in 256x256px or smaller resolution. Please also note that the images will be automatically cropped into a circle to be displayed on Keplr Dashboard.
