@@ -30,8 +30,8 @@
             "appWebsiteUrl": "https://app.marsprotocol.io/",
             "externalUrls": {
                 "twitter": "https://twitter.com/mars_protocol",
-                "github": "https://github.com/osmosis-labs",
-                "discord": "https://github.com/mars-protocol"
+                "github": "https://github.com/mars-protocol",
+                "discord": "https://discord.com/invite/marsprotocol"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/mars-protocol/icon.png"
         },
