@@ -1,0 +1,12 @@
+{
+  "appCategory": "DAO",
+  "appName": "ION DAO",
+  "appSummary": "ION DAO is discussing potential use cases as a stable $ION",
+  "appIconUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/ion.png",
+  "appWebsiteUrl": "https://ion.wtf/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/_IONDAO",
+    "github": "https://github.com/many-things/ion-dao-contracts",
+    "discord": "https://discord.com/invite/9gD5wDaZWU"
+  }
+}
