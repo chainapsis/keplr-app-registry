@@ -24,6 +24,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png"
         },
         {
+            "appCategory": "NFT",
+            "appName": "Liker Land",
+            "appSummary": "The POAP for content. Turn your stories into collectibles.",
+            "appWebsiteUrl": "https://liker.land/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/likecoin",
+                "github": "https://github.com/likecoin",
+                "discord": "https://discord.com/invite/likecoin"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/likerland/icon.png"
+        },
+        {
             "appCategory": "DeFi",
             "appName": "Mars Protocol",
             "appSummary": "Lend, borrow and earn with an autonomous credit protocol in the Cosmos universe.",
