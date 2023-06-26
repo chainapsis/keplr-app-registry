@@ -1,16 +1,29 @@
 import { readFileSync } from "fs";
 import Joi from "joi";
 
+const appCategoryAllowList = [
+  "DeFi",
+  "Social",
+  "NFT",
+  "DAO",
+  "Tool",
+  "Liquid Staking",
+];
+
 const appSchema = Joi.object({
-  appCategory: Joi.string().required(),
+  appCategory: Joi.string()
+    .valid(...appCategoryAllowList)
+    .required(),
   appName: Joi.string().required(),
   appSummary: Joi.string().required(),
-  appWebsiteUrl: Joi.string().required(),
+  appWebsiteUrl: Joi.string().uri().required(),
   externalUrls: Joi.object({
     github: Joi.string(),
     twitter: Joi.string(),
     discord: Joi.string(),
-  }),
+  })
+    .min(1)
+    .required(),
 });
 
 (async function main() {
