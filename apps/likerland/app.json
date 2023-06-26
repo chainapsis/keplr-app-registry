@@ -1,0 +1,11 @@
+{
+  "appCategory": "NFT",
+  "appName": "Liker Land",
+  "appSummary": "The POAP for content. Turn your stories into collectibles.",
+  "appWebsiteUrl": "https://liker.land/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/likecoin",
+    "github": "https://github.com/likecoin",
+    "discord": "https://discord.com/invite/likecoin"
+  }
+}
