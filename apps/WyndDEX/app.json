@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "WyndDEX",
+  "appSummary": "Cross Chain DeFi Hub.",
+  "appWebsiteUrl": "https://app.wynddao.com/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/wynddao",
+    "github": "https://github.com/wynddao/wynddex",
+    "discord": "https://discord.com/invite/GAMrnkbmj4"
+  }
+}
