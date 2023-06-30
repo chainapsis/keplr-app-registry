@@ -1,6 +1,18 @@
 {
     "list": [
         {
+            "appCategory": "DeFi",
+            "appName": "Wynd DAO",
+            "appSummary": "Cross Chain DeFi Hub.",
+            "appWebsiteUrl": "https://app.wynddao.com/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/wynddao",
+                "github": "https://github.com/wynddao",
+                "discord": "https://discord.com/invite/GAMrnkbmj4"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/WyndDEX/icon.png"
+        },
+        {
             "appCategory": "DAO",
             "appName": "DAO DAO",
             "appSummary": "A DAO building DAO tooling. Built on Juno.",
@@ -75,13 +87,13 @@
             "appCategory": "Liquid Staking",
             "appName": "Quicksilver",
             "appSummary": "Interchain Liquid Staking for the Cosmos ecosystem and beyond.",
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/quicksilver/icon.png",
             "appWebsiteUrl": "https://app.quicksilver.zone/",
             "externalUrls": {
                 "twitter": "https://twitter.com/quicksilverzone",
                 "github": "https://github.com/ingenuity-build/",
                 "discord": "https://discord.com/invite/xrSmYMDVrQ"
-            }
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/quicksilver/icon.png"
         },
         {
             "appCategory": "Tool",
