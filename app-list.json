@@ -132,6 +132,115 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stargaze/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Shade Protocol",
+            "appSummary": "The Super-App For Private DeFi.",
+            "appWebsiteUrl": "https://www.stargaze.zone/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/Shade_Protocol",
+                "github": "https://github.com/securesecrets/shade",
+                "discord": "https://discord.gg/ctCF5yk48H"
+            },
+            "appIconUrl": "https://imgur.com/a/8s18ihX"
+        },
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Sienna Network",
+            "appSummary": "Privacy-first, cross-chain decentralized finance protocol.",
+            "appWebsiteUrl": "https://sienna.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/sienna_network",
+                "github": "https://github.com/SiennaNetwork",
+                "discord": "https://discord.com/invite/jZk8ggm7XP"
+            },
+            "appIconUrl": "https://imgur.com/0YtPyYz"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Blizzard Finance",
+            "appSummary": "Balancer-like AMM on the Secret Network that offers an elegant and feature-rich trading experience.",
+            "appWebsiteUrl": "https://blizzard.finance/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/BlizzardFin",
+                "github": "https://github.com/secretdao",
+                "discord": "https://discord.gg/nXJBhdjK"
+            },
+            "appIconUrl": "https://imgur.com/EV7kLbO"
+        },
+        {
+            "appCategory": "NFT",
+            "appName": "Stashh",
+            "appSummary": "Maketplace for private NFTs and beyond",
+            "appWebsiteUrl": "https://stashh.io/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/StashhApp",
+                "github": "https://github.com/stashh-labs",
+                "discord": "http://chat.stashh.io"
+            },
+            "appIconUrl": "https://imgur.com/9qLCf2T"
+        },
+        {
+            "appCategory": "Liquid Staking",
+            "appName": "StakeEasy",
+            "appSummary": "Liquid Staking derivates platform for $SCRT, $JUNO and $ARCH",
+            "appWebsiteUrl": "https://stashh.io/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/StakeEasy",
+                "github": "hhttps://github.com/arufa-research",
+                "discord": "https://discord.com/invite/gKjzApDstD"
+            },
+            "appIconUrl": "https://imgur.com/XT0v8r4"
+        },
+        {
+            "appCategory": "Social",
+            "appName": "Alter Network",
+            "appSummary": "Private & Secure messaging platform.",
+            "appWebsiteUrl": "https://alter.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/AlterDapp",
+                "github": "hhttps://github.com/arufa-research",
+                "discord": "https://discord.com/invite/jyTnQnpnbU"
+            },
+            "appIconUrl": "https://imgur.com/7GeoJIk"
+        },
+        {
+            "appCategory": "Social",
+            "appName": "Alter Network",
+            "appSummary": "Private & Secure messaging platform.",
+            "appWebsiteUrl": "https://alter.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/AlterDapp",
+                "github": "https://github.com/reversesigh/alter_desktop",
+                "discord": "https://discord.com/invite/jyTnQnpnbU"
+            },
+            "appIconUrl": "https://imgur.com/7GeoJIk"
+        },
+        {
+            "appCategory": "Tool",
+            "appName": "Fina Card",
+            "appSummary": "Web3 VISA prepaid card",
+            "appWebsiteUrl": "https://card.fina.cash/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/FinaCash",
+                "github": "hhttps://github.com",
+                "discord": "https://discord.gg/CQTW2nNS"
+            },
+            "appIconUrl": "https://imgur.com/qySTW2Y"
+        },
+        {
+            "appCategory": "Tool",
+            "appName": "Fina Card",
+            "appSummary": "Web3 VISA prepaid card",
+            "appWebsiteUrl": "https://card.fina.cash/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/FinaCash",
+                "github": "hhttps://github.com",
+                "discord": "https://discord.gg/CQTW2nNS"
+            },
+            "appIconUrl": "https://imgur.com/qySTW2Y"
+        },
+        {
             "appCategory": "Liquid Staking",
             "appName": "Stride",
             "appSummary": "The Liquid Staking Zone. Earn both staking and DeFi yields across the Interchain",
