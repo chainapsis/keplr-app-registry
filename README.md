@@ -44,3 +44,4 @@ Please note that you need to comply with our requirements when filling out the f
 ## NOTE:
 - Please double-check if the app information file is in JSON format.
 - App icon should be in PNG format in 256x256px or smaller resolution. Please also note that the images will be automatically cropped into a circle to be displayed on Keplr Dashboard.
+- DON'T UPDATE `app-list.json` DIRECTLY. It's auto-generated file from reading files in `apps/` for getting apps info easily.
