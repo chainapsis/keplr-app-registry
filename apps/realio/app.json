@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Realio", 
+  "appSummary": "Web3 Ecosystem for Digital & Real-World Assets",
+  "appWebsiteUrl": "https://app.realio.fund/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/realio_network",
+    "github": "https://github.com/realiotech",
+    "discord": "https://discord.gg/Y2xYbg7c"
+  }
+}
