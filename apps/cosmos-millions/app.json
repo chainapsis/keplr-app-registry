@@ -1,0 +1,11 @@
+{
+    "appCategory": "DeFi",
+    "appName": "Cosmos Millions",
+    "appSummary": "The Interchain prize-savings protocol.",
+    "appWebsiteUrl": "https://cosmosmillions.com/dashboard",
+    "externalUrls": {
+        "twitter": "https://twitter.com/cosmosmillions",
+        "github": "https://github.com/lum-network/chain/tree/master/x/millions",
+        "discord": "https://discord.gg/xnBsSW9WqT"
+    }
+}
