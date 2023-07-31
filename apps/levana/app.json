@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Levana",
+  "appSummary": "Trade native tokens with 30x leverage and low fees",
+  "appWebsiteUrl": "https://trade.levana.finance",
+  "externalUrls": {
+    "twitter": "https://twitter.com/levana_protocol",
+    "github": "https://github.com/levana-protocol",
+    "discord": "https://discord.gg/Xa7yzUtApz"
+  }
+}
