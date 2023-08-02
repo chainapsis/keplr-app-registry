@@ -13,6 +13,28 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/WyndDEX/icon.png"
         },
         {
+            "appCategory": "NFT",
+            "appName": "BookForest",
+            "appSummary": "BookForest is the future of digital book publishing. Leveraging the power of blockchain, BookForest allows authors to publish their books as non-fungible tokens (NFTs), which provides numerous benefits to both authors and readers.",
+            "appWebsiteUrl": "https://www.bookforest.io",
+            "externalUrls": {
+                "discord": "https://discord.gg/GCmmA5d6"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/bookforest/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Cosmos Millions",
+            "appSummary": "The Interchain prize-linked savings account.",
+            "appWebsiteUrl": "https://cosmosmillions.com/dashboard",
+            "externalUrls": {
+                "twitter": "https://twitter.com/cosmosmillions",
+                "github": "https://github.com/lum-network/chain/tree/master/x/millions",
+                "discord": "https://discord.gg/xnBsSW9WqT"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/cosmos-millions/icon.png"
+        },
+        {
             "appCategory": "DAO",
             "appName": "DAO DAO",
             "appSummary": "A DAO building DAO tooling. Built on Juno.",
@@ -37,6 +59,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/dexter/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "HAQQ Network",
+            "appSummary": "HAQQ is a scalable and interoperable Ethereum, built on Proof-of-Stake with fast-finality.",
+            "appWebsiteUrl": "https://haqq.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/The_HaqqNetwork",
+                "github": "https://github.com/haqq-network",
+                "discord": "https://discord.gg/islamiccoin"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/haqq/icon.png"
+        },
+        {
             "appCategory": "Social",
             "appName": "ICNS",
             "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
@@ -46,6 +80,18 @@
                 "github": "https://github.com/icns-xyz"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Levana",
+            "appSummary": "Trade native tokens with 30x leverage and low fees",
+            "appWebsiteUrl": "https://trade.levana.finance",
+            "externalUrls": {
+                "twitter": "https://twitter.com/levana_protocol",
+                "github": "https://github.com/levana-protocol",
+                "discord": "https://discord.gg/Xa7yzUtApz"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/levana/icon.png"
         },
         {
             "appCategory": "NFT",
@@ -118,6 +164,18 @@
                 "discord": "https://discord.com/invite/xrSmYMDVrQ"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/quicksilver/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Realio",
+            "appSummary": "Web3 Ecosystem for Digital & Real-World Assets",
+            "appWebsiteUrl": "https://app.realio.fund/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/realio_network",
+                "github": "https://github.com/realiotech",
+                "discord": "https://discord.gg/Y2xYbg7c"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/realio/icon.png"
         },
         {
             "appCategory": "Tool",
