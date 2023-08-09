@@ -2,7 +2,7 @@
   "appCategory": "Asset Management",
   "appName": "Quasar",
   "appSummary": "Quasar is an appchain for IBC-enabled vaults that automatically execute customizable financial strategies across independent blockchains.",
-  "appWebsiteUrl": "https://www.quasar.fi/",
+  "appWebsiteUrl": "https://app.quasar.fi/",
   "externalUrls": {
     "twitter": "https://twitter.com/QuasarFi",
     "github": "https://github.com/quasar-finance",
