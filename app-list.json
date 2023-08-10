@@ -166,6 +166,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pstake/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Quasar",
+            "appSummary": "Quasar is an appchain for IBC-enabled vaults that automatically execute customizable financial strategies across independent blockchains.",
+            "appWebsiteUrl": "https://app.quasar.fi/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/QuasarFi",
+                "github": "https://github.com/quasar-finance",
+                "discord": "https://discord.gg/quasarfi"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/quasar/icon.png"
+        },
+        {
             "appCategory": "Liquid Staking",
             "appName": "Quicksilver",
             "appSummary": "Interchain Liquid Staking for the Cosmos ecosystem and beyond.",
