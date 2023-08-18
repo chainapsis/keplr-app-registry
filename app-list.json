@@ -35,6 +35,17 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/bookforest/icon.png"
         },
         {
+            "appCategory": "Tool",
+            "appName": "Composable",
+            "appSummary": "Composing DeFi for Mass Adoption - Any money, any chain, anywhere",
+            "appWebsiteUrl": "https://www.composable.finance",
+            "externalUrls": {
+                "twitter": "https://twitter.com/ComposableFin",
+                "github": "https://github.com/ComposableFi"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/composable/icon.png"
+        },
+        {
             "appCategory": "DeFi",
             "appName": "Cosmos Millions",
             "appSummary": "The Interchain prize-linked savings account.",
