@@ -1,8 +1,8 @@
 {
-    "appCategory": "DeFi",
+    "appCategory": "Tool",
     "appName": "Composable", 
     "appSummary": "Composing DeFi for Mass Adoption - Any money, any chain, anywhere",
-    "appWebsiteUrl": "https://app.trustless.zone/",
+    "appWebsiteUrl": "https://www.composable.finance",
     "externalUrls": {
       "twitter": "https://twitter.com/ComposableFin",
       "github": "https://github.com/ComposableFi"
