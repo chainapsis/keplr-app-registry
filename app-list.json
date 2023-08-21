@@ -141,6 +141,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/mars-protocol/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Nolus",
+            "appSummary": "The Cross-Chain Lease Protocol. Elevate your game with up to 3x equity. Dive into a world of minimized risks and unlock the full potential of your assets.",
+            "appWebsiteUrl": "https://app.nolus.io",
+            "externalUrls": {
+                "twitter": "https://twitter.com/nolusprotocol",
+                "github": "https://github.com/nolus-protocol",
+                "discord": "https://discord.com/invite/nolus-protocol"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/nolus/icon.png"
+        },
+        {
             "appCategory": "Tool",
             "appName": "nRide.com",
             "appSummary": "web3.0 powered ride-hailing protocol",
