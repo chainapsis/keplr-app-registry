@@ -1,0 +1,12 @@
+{
+    "appCategory": "DeFi",
+    "appName": “Inter Protocol Parity Stability Module (PSM)”, 
+    "appSummary": “Mint IST and Cosmos stable token arbitrage“,
+    "appWebsiteUrl": "https://psm.inter.trade”,
+    "externalUrls": {
+      "twitter": "hhttps://twitter.com/inter_protocol,
+      "github": "https://github.com/inter-protocol",
+      "discord": "https://discord.com/invite/interprotocol”
+    }
+  }
+  
