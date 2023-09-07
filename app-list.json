@@ -14,6 +14,18 @@
         },
         {
             "appCategory": "DeFi",
+            "appName": "Inter Protocol Parity Stability Module (PSM)",
+            "appSummary": "Mint IST and Cosmos stable token arbitrage",
+            "appWebsiteUrl": "https://psm.inter.trade",
+            "externalUrls": {
+                "twitter": "https://twitter.com/inter_protocol",
+                "github": "https://github.com/inter-protocol",
+                "discord": "https://discord.com/invite/interprotocol"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/InterProtocol-PSM/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "Wynd DAO",
             "appSummary": "Cross Chain DeFi Hub.",
             "appWebsiteUrl": "https://app.wynddao.com/",
