@@ -24,7 +24,7 @@ const appSchema = Joi.object({
   })
     .min(1)
     .required(),
-  supportingChainIds: Joi.array().items(Joi.string()),
+  appWebsiteUrlsByChainId: Joi.object().pattern(Joi.string(), Joi.string()),
 });
 
 (async function main() {
