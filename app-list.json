@@ -37,6 +37,20 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/WyndDEX/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Astroport",
+            "appSummary": "An intergalactic AMM/DEX where adventurers can dock, swap and provide liquidity.",
+            "appWebsiteUrl": "https://app.astroport.fi",
+            "externalUrls": {
+                "twitter": "https://twitter.com/astroport_fi",
+                "discord": "https://discord.com/invite/astroport"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://neutron.astroport.fi/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/astroport/icon.png"
+        },
+        {
             "appCategory": "NFT",
             "appName": "BookForest",
             "appSummary": "BookForest is the future of digital book publishing. Leveraging the power of blockchain, BookForest allows authors to publish their books as non-fungible tokens (NFTs), which provides numerous benefits to both authors and readers.",
