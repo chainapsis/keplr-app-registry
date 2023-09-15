@@ -155,6 +155,20 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/levana/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Lido",
+            "appSummary": "With Lido`s liquid staking protocol, users can receive liquid stTokens on top of daily staking rewards.",
+            "appWebsiteUrl": "https://lido.fi/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/LidoFinance",
+                "discord": "https://discord.com/invite/lido"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://lido.fi/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/lido-neutron/icon.png"
+        },
+        {
             "appCategory": "NFT",
             "appName": "Liker Land",
             "appSummary": "The POAP for content. Turn your stories into collectibles.",
@@ -177,6 +191,34 @@
                 "discord": "https://discord.com/invite/marsprotocol"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/mars-protocol/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Apollo DAO",
+            "appSummary": "Optimize your DeFi yields with smart contracts-automated Apollo Vaults strategies.",
+            "appWebsiteUrl": "https://app.apollo.farm/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/ApolloDAO",
+                "discord": "https://discord.com/invite/A3KWrCzt"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://app.apollo.farm/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-apollo-dao/icon.png"
+        },
+        {
+            "appCategory": "NFT",
+            "appName": "Craft Network",
+            "appSummary": "Craft Network is an NFT Marketplace bringing cross-chain NFT liquidity for the Interchain.",
+            "appWebsiteUrl": "https://craft.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/craftdotnetwork",
+                "discord": "https://discord.com/invite/TaG8SfmAVH"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://craft.network/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-craft-network/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -261,6 +303,20 @@
                 "discord": "https://discord.gg/Y2xYbg7c"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/realio/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Red Bank",
+            "appSummary": "Lend, borrow and earn on Red Bank lending platform designed by Mars Protocol team.",
+            "appWebsiteUrl": "https://neutron.marsprotocol.io/redbank",
+            "externalUrls": {
+                "twitter": "https://twitter.com/mars_protocol",
+                "discord": "https://discord.com/invite/marsprotocol"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://neutron.marsprotocol.io/redbank"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/redbank/icon.png"
         },
         {
             "appCategory": "Tool",
