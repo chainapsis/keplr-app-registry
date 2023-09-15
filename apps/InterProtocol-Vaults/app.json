@@ -1,0 +1,12 @@
+{
+    "appCategory": "DeFi",
+    "appName": "Inter Protocol Vaults", 
+    "appSummary": "Mint native Cosmosis stable token IST with IBC assets",
+    "appWebsiteUrl": "https://app.inter.trade",
+    "externalUrls": {
+      "twitter": "https://twitter.com/inter_protocol",
+      "github": "https://github.com/inter-protocol",
+      "discord": "https://discord.com/invite/interprotocol"
+    }
+  }
+  
