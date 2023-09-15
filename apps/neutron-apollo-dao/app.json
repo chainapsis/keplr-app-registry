@@ -1,0 +1,13 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Apollo DAO",
+  "appSummary": "Optimize your DeFi yields with smart contracts-automated Apollo Vaults strategies.",
+  "appWebsiteUrl": "https://app.apollo.farm/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/ApolloDAO",
+    "discord": "https://discord.com/invite/A3KWrCzt"
+  },
+  "appWebsiteUrlsByChainId": {
+    "neutron-1": "https://app.apollo.farm/"
+  }
+}
