@@ -1,0 +1,13 @@
+{
+  "appCategory": "NFT",
+  "appName": "Craft Network",
+  "appSummary": "Craft Network is an NFT Marketplace bringing cross-chain NFT liquidity for the Interchain.",
+  "appWebsiteUrl": "https://craft.network/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/craftdotnetwork",
+    "discord": "https://discord.com/invite/TaG8SfmAVH"
+  },
+  "appWebsiteUrlsByChainId": {
+    "neutron-1": "https://craft.network/"
+  }
+}
