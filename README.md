@@ -34,10 +34,6 @@ Please note that you need to comply with our requirements when filling out the f
     "twitter": "https://twitter.com/osmosiszone",
     "github": "https://github.com/osmosis-labs",
     "discord": "https://discord.com/invite/osmosis"
-  },
-  // Optional
-  "appWebsiteUrlsByChainId": {
-    "osmosis-1": "https://app.osmosis.zone"
   }
 }
 ```
@@ -49,7 +45,6 @@ Please note that you need to comply with our requirements when filling out the f
 - `appSummary`: Write out a one-liner (or two at max) to introduce your application. It won't be fully displayed in the box if the intro is too long.
 - `appWebsiteUrl`: Provide the link to your app's website.
 - `externalUrls`: Provide the links to your app's official social accounts. Currently we only support: `Twitter`, `Github`, and `Discord`.
-- `appWebsiteUrlsByChainId`: Provide the links if app's website link is different depending on the chain your app supports.
 
 ## NOTE:
 
