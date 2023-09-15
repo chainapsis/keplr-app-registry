@@ -1,0 +1,13 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Lido",
+  "appSummary": "With Lido`s liquid staking protocol, users can receive liquid stTokens on top of daily staking rewards.",
+  "appWebsiteUrl": "https://lido.fi/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/LidoFinance",
+    "discord": "https://discord.com/invite/lido"
+  },
+  "appWebsiteUrlsByChainId": {
+    "neutron-1": "https://lido.fi/"
+  }
+}
