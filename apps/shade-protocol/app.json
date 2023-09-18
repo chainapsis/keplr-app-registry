@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Shade Protocol", 
+  "appSummary": "Private DeFi Hub of the Cosmos, borrow and earn with SILK, the largest private decentralised stable in the cosmos",
+  "appWebsiteUrl": "https://app.shadeprotocol.io/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/Shade_Protocol",
+    "github": "https://github.com/securesecrets/shade",
+    "discord": "https://discord.gg/shade-protocol-905665558610051113"
+  }
+}
