@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "TFM",
+  "appSummary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator!",
+  "appWebsiteUrl": "https://tfm.com/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/tfm_com",
+    "github": "https://github.com/tfm-com",
+    "discord": "https://discord.com/invite/538PrcubY9"
+  }
+}
