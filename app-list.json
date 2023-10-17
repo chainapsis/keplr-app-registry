@@ -1,6 +1,17 @@
 {
     "list": [
         {
+            "appCategory": "DeFi",
+            "appName": "Coinhall",
+            "appSummary": "Real-time Price Charts, Analytics, DEX Aggregator & Validator for Cosmos.",
+            "appWebsiteUrl": "https://coinhall.org",
+            "externalUrls": {
+                "twitter": "https://twitter.com/coinhall_org",
+                "github": "https://github.com/coinhall"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Coinhall/icon.png"
+        },
+        {
             "appCategory": "Tool",
             "appName": "IBC Fun",
             "appSummary": "One-click cross-chain swaps & transfers anywhere in Cosmos. Powered by Skip API.",
