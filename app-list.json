@@ -75,6 +75,17 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/astroport/icon.png"
         },
         {
+            "appCategory": "Social",
+            "appName": "Black Jack",
+            "appSummary": "No, not 21. The original Black Jack - the multiplayer card shedding game!",
+            "appWebsiteUrl": "https://aart-blackjack.anther.info/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/AART_BlackJack",
+                "discord": "https://discord.com/invite/dU2Sbcxyvc"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/blackjack/icon.png"
+        },
+        {
             "appCategory": "NFT",
             "appName": "BookForest",
             "appSummary": "BookForest is the future of digital book publishing. Leveraging the power of blockchain, BookForest allows authors to publish their books as non-fungible tokens (NFTs), which provides numerous benefits to both authors and readers.",
