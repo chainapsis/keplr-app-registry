@@ -1,0 +1,10 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Coinhall",
+  "appSummary": "Real-time Price Charts, Analytics, DEX Aggregator & Validator for Cosmos.",
+  "appWebsiteUrl": "https://coinhall.org",
+  "externalUrls": {
+    "twitter": "https://twitter.com/coinhall_org",
+    "github": "https://github.com/coinhall",
+  }
+}
