@@ -1,0 +1,11 @@
+{
+  "appCategory": "Social",
+  "appName": "Social Network",
+  "appSummary": "Cosmos first decentralized (IPFS + Teritori AppChain) on chain social network.",
+  "appWebsiteUrl": "https://app.teritori.com/feed",
+  "externalUrls": {
+    "twitter": "https://twitter.com/TeritoriNetwork",
+    "github": "https://github.com/TERITORI/teritori-dapp/",
+    "discord": "https://discord.com/invite/teritori"
+  }
+}
