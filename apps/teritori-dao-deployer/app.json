@@ -1,0 +1,11 @@
+{
+  "appCategory": "DAO",
+  "appName": "Organization Deployer",
+  "appSummary": "Build, vote and manage funds and many more social features. Built on Teritori",
+  "appWebsiteUrl": "https://app.teritori.com/orgs",
+  "externalUrls": {
+    "twitter": "https://twitter.com/TeritoriNetwork",
+    "github": "https://github.com/TERITORI/teritori-dapp/",
+    "discord": "https://discord.com/invite/teritori"
+  }
+}
