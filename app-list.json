@@ -49,6 +49,19 @@
         },
         {
             "appCategory": "DeFi",
+            "appName": "MilkyWay",
+            "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
+            "appWebsiteUrl": "https://www.milkyway.zone",
+            "externalUrls": {
+                "twitter": "https://twitter.com/milky_way_zone",
+                "github": "https://github.com/milkyway-labs",
+                "discord": "https://discord.gg/4ywmNE3tqq",
+                "telegram": "https://t.me/milky_way_zone"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/MilkyWay/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "TFM",
             "appSummary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator!",
             "appWebsiteUrl": "https://tfm.com/",
