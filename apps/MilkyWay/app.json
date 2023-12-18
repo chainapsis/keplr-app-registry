@@ -1,0 +1,12 @@
+{
+  "appCategory": "DeFi",
+  "appName": "MilkyWay",
+  "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
+  "appWebsiteUrl": "https://www.milkyway.zone",
+  "externalUrls": {
+    "twitter": "https://twitter.com/milky_way_zone",
+    "github": "https://github.com/milkyway-labs",
+    "discord": "https://discord.gg/4ywmNE3tqq",
+    "telegram": "https://t.me/milky_way_zone"
+  }
+}
