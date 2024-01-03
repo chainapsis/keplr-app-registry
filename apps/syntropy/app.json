@@ -1,0 +1,11 @@
+{
+  "appCategory": "Tool",
+  "appName": "Syntropy",
+  "appSummary": "Decentralized, multi-purpose on-chain streaming oracle for applications and blockchains",
+  "appWebsiteUrl": "https://developer-portal.syntropynet.com",
+  "externalUrls": {
+   "twitter": "https://twitter.com/Syntropynet",
+   "github": "https://github.com/SyntropyNet",
+   "discord": "https://discord.com/invite/Ze7Kswye8B"
+  }
+ }
