@@ -55,8 +55,7 @@
             "externalUrls": {
                 "twitter": "https://twitter.com/milky_way_zone",
                 "github": "https://github.com/milkyway-labs",
-                "discord": "https://discord.gg/4ywmNE3tqq",
-                "telegram": "https://t.me/milky_way_zone"
+                "discord": "https://discord.gg/4ywmNE3tqq"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/MilkyWay/icon.png"
         },
@@ -118,6 +117,17 @@
                 "discord": "https://discord.gg/GCmmA5d6"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/bookforest/icon.png"
+        },
+        {
+            "appCategory": "Tool",
+            "appName": "Cloudmos",
+            "appSummary": "Cloudmos is the #1 platform to deploy docker containers on the Akash Network, a decentralized cloud compute marketplace. Explore, deploy and track all in one place!",
+            "appWebsiteUrl": "https://deploy.cloudmos.io/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/cloudmosio",
+                "github": "https://github.com/akash-network/cloudmos"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/cloudmos/icon.png"
         },
         {
             "appCategory": "Tool",
@@ -450,6 +460,30 @@
                 "discord": "https://discord.com/invite/stride-zone"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/stride/icon.png"
+        },
+        {
+            "appCategory": "Tool",
+            "appName": "Syntropy",
+            "appSummary": "Decentralized, multi-purpose on-chain streaming oracle for applications and blockchains",
+            "appWebsiteUrl": "https://developer-portal.syntropynet.com",
+            "externalUrls": {
+                "twitter": "https://twitter.com/Syntropynet",
+                "github": "https://github.com/SyntropyNet",
+                "discord": "https://discord.com/invite/Ze7Kswye8B"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/syntropy/icon.png"
+        },
+        {
+            "appCategory": "NFT",
+            "appName": "Talis",
+            "appSummary": "The NFT marketplace that empowers artists and bridges physical & digital art on the Cosmos blockchain.",
+            "appWebsiteUrl": "https://talis.art",
+            "externalUrls": {
+                "twitter": "https://twitter.com/ProtocolTalis",
+                "github": "https://github.com/Talis-Art",
+                "discord": "https://discord.gg/CyA2B5rpKE"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
         },
         {
             "appCategory": "NFT",
