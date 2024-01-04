@@ -464,6 +464,18 @@
         },
         {
             "appCategory": "NFT",
+            "appName": "Talis",
+            "appSummary": "The NFT marketplace that empowers artists and bridges physical & digital art on the Cosmos blockchain.",
+            "appWebsiteUrl": "https://talis.art",
+            "externalUrls": {
+                "twitter": "https://twitter.com/ProtocolTalis",
+                "github": "https://github.com/Talis-Art",
+                "discord": "https://discord.gg/CyA2B5rpKE"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
+        },
+        {
+            "appCategory": "NFT",
             "appName": "Teritori - NFT",
             "appSummary": "Mint and trade your next NFTs and play P2E games such as 'The R!OT' and 'ToriPunks'.",
             "appWebsiteUrl": "https://app.teritori.com/marketplace",
