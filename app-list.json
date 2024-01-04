@@ -48,7 +48,7 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/InterProtocol-Vaults/icon.png"
         },
         {
-            "appCategory": "DeFi",
+            "appCategory": "Liquid Staking",
             "appName": "MilkyWay",
             "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
             "appWebsiteUrl": "https://www.milkyway.zone",
