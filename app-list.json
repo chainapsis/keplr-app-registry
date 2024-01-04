@@ -120,6 +120,17 @@
         },
         {
             "appCategory": "Tool",
+            "appName": "Cloudmos",
+            "appSummary": "Cloudmos is the #1 platform to deploy docker containers on the Akash Network, a decentralized cloud compute marketplace. Explore, deploy and track all in one place!",
+            "appWebsiteUrl": "https://deploy.cloudmos.io/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/cloudmosio",
+                "github": "https://github.com/akash-network/cloudmos"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/cloudmos/icon.png"
+        },
+        {
+            "appCategory": "Tool",
             "appName": "Composable",
             "appSummary": "Composing DeFi for Mass Adoption - Any money, any chain, anywhere",
             "appWebsiteUrl": "https://www.composable.finance",
