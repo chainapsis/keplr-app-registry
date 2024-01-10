@@ -487,9 +487,9 @@
         },
         {
             "appCategory": "NFT",
-            "appName": "Teritori - NFT",
-            "appSummary": "Mint and trade your next NFTs and play P2E games such as 'The R!OT' and 'ToriPunks'.",
-            "appWebsiteUrl": "https://app.teritori.com/marketplace",
+            "appName": "Teritori OS",
+            "appSummary": "Mint, trade NFTs, get a name for your wallet, make your own DAO, explore social features, play games and more.",
+            "appWebsiteUrl": "https://app.teritori.com/",
             "externalUrls": {
                 "twitter": "https://twitter.com/TeritoriNetwork",
                 "github": "https://github.com/TERITORI/teritori-dapp/",
