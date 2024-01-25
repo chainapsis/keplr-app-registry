@@ -2,6 +2,17 @@
     "list": [
         {
             "appCategory": "DeFi",
+            "appName": "Astrovault",
+            "appSummary": "DeFi, Sustainably. Outbid gamified fundraiser.",
+            "appWebsiteUrl": "https://astrovault.io/",
+            "externalUrls": {
+                "twitter": "https://astrovault.io/twitter",
+                "discord": "https://astrovault.io/discord"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Astrovault/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "Coinhall",
             "appSummary": "Real-time Price Charts, Analytics, DEX Aggregator & Validator for Cosmos.",
             "appWebsiteUrl": "https://coinhall.org",
