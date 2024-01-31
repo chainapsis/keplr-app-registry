@@ -224,6 +224,17 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/haqq/icon.png"
         },
         {
+            "appCategory": "Liquid Staking",
+            "appName": "Hydro-protocol",
+            "appSummary": "Ultimate LSD & LSDFi infrastructure Platform on Injective",
+            "appWebsiteUrl": "https://app.hydroprotocol.finance/",
+            "externalUrls": {
+                "twitter": "https://hydroprotocol.finance/twitter",
+                "discord": "https://hydroprotocol.finance/discord"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro-protocol/icon.png"
+        },
+        {
             "appCategory": "Social",
             "appName": "ICNS",
             "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
