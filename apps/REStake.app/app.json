@@ -1,0 +1,9 @@
+{
+  "appCategory": "Tool",
+  "appName": "REStake.app",
+  "appSummary": "Auto-compound your staking rewards on any chain in the Cosmos ecosystem.",
+  "appWebsiteUrl": "https://restake.app/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/REStakeApp"
+  }
+}
