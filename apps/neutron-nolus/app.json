@@ -1,0 +1,14 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Nolus Protocol",
+  "appSummary": "Reshaping Money Markets with the first DeFi Lease.",
+  "appWebsiteUrl": "https://app.nolus.io/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/NolusProtocol",
+    "discord": "https://discord.com/invite/nolus-protocol",
+    "github": "https://github.com/nolus-protocol"
+  },
+  "appWebsiteUrlsByChainId": {
+    "neutron-1": "https://app.nolus.io/"
+  }
+}
