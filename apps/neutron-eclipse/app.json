@@ -1,0 +1,13 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Eclipse Fi",
+  "appSummary": "A liquidity hub for the future of community token distributions across the Interchain.",
+  "appWebsiteUrl": "https://eclipsefi.io/home/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/Eclipsefi",
+    "discord": "https://discord.com/invite/ybDkvQ2Qp5"
+  },
+  "appWebsiteUrlsByChainId": {
+    "neutron-1": "https://eclipsefi.io/home/"
+  }
+}
