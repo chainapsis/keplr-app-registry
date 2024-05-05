@@ -1,0 +1,10 @@
+{
+    "appCategory": "Tool",
+    "appName": "Picasso", 
+    "appSummary": "Picasso is a DeFi infrastructure-focused Layer 1 protocol that extends the IBC Protocol to Ethereum, Solana and Polkadot. Complementary to the interoperability work, Picasso is building the first Generalized Restaking Layer starting with deployment on Solana, and expand support for all IBC connected ecosystems.",
+    "appWebsiteUrl": "https://www.picasso.xyz",
+    "externalUrls": {
+      "twitter": "https://twitter.com/picasso_network",
+      "github": "https://github.com/ComposableFi"
+    }
+  }
