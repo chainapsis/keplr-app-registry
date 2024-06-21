@@ -1,11 +1,11 @@
 {
   "appCategory": "DeFi",
-  "appName": "Dexter",
-  "appSummary": "Interchain DEX for Yield Generating Assets",
-  "appWebsiteUrl": "https://app.dexter.zone",
+  "appName": "Persistence DEX",
+  "appSummary": "Persistence DEX is a decentralized exchange for BTC and Liquid Staked Tokens (LSTs). ",
+  "appWebsiteUrl": "https://app.persistence.one",
   "externalUrls": {
-    "twitter": "https://twitter.com/dexter_zone",
+    "twitter": "https://x.com/PersistenceOne",
     "github": "https://github.com/dexter-zone",
-    "discord": "https://discord.gg/dv8djDYuGD"
+    "discord": "https://discord.persistence.one"
   }
 }
