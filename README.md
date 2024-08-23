@@ -1,5 +1,7 @@
 # Guidelines for Submitting Your App to Keplr Dashboard
 
+‼️ PLEASE NOTE: To ensure that the apps featured on our Explore page are always relevant and useful, we will be regularly reviewing and updating the app list based on user traction. 
+
 This page outlines the basic information that is required for registering your Interchain application to Keplr dashboard. Please note that your request does not always guarantee its display on the dashboard; upon your submission, Keplr team will go through a minimal verification process to see if there is any security issues or missing information.
 
 Once approved, Keplr Dashboard will show your application in its Explore page, with the information you've submitted.
