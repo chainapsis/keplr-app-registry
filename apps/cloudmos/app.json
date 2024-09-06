@@ -2,7 +2,7 @@
   "appCategory": "Tool",
   "appName": "Cloudmos",
   "appSummary": "Cloudmos is the #1 platform to deploy docker containers on the Akash Network, a decentralized cloud compute marketplace. Explore, deploy and track all in one place!",
-  "appWebsiteUrl": "https://deploy.cloudmos.io/",
+  "appWebsiteUrl": "https://console.akash.network/",
   "externalUrls": {
     "twitter": "https://twitter.com/cloudmosio",
     "github": "https://github.com/akash-network/cloudmos"
