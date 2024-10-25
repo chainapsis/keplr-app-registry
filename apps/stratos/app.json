@@ -1,0 +1,11 @@
+{
+  "appCategory": "Tool",
+  "appName": "Stratos",
+  "appSummary": "Stratos is a pioneering decentralized infrastructure service provider, revolutionizing AI and DePIN with advanced decentralized solutions in storage, computing, databases, and blockchain services",
+  "appWebsiteUrl": "https://www.thestratos.org/",
+  "externalUrls": {
+    "twitter": "https://x.com/Stratos_Network",
+    "github": "https://github.com/stratosnet",
+    "discord": "https://discord.gg/tpQGpC2nMh"
+  }
+}
