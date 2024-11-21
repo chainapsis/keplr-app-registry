@@ -1,11 +1,13 @@
 {
   "appCategory": "DAO",
   "appName": "DAO DAO",
-  "appSummary": "A DAO building DAO tooling. Built on Juno.",
+  "appSummary": "Simple, capable, and free DAO toolings for Cosmos.",
   "appWebsiteUrl": "https://daodao.zone/",
   "externalUrls": {
     "twitter": "https://twitter.com/DA0_DA0",
     "github": "https://github.com/DA0-DA0",
     "discord": "https://discord.com/invite/sAaGuyW3D2"
-  }
+  },
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://daodao.zone/dao/cosmos"
 }
