@@ -1,0 +1,13 @@
+{
+  "appCategory": "Tool",
+  "appName": "Forge",
+  "appSummary": "The unified chain launch dashboard for Cosmos.",
+  "appWebsiteUrl": "https://forge.cosmos.network/",
+  "externalUrls": {
+    "twitter": "https://x.com/cosmos",
+    "github": "https://github.com/cosmos/interchain-security"
+  },
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://forge.cosmos.network/"
+  }
+}
