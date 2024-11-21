@@ -24,6 +24,20 @@
         },
         {
             "appCategory": "Tool",
+            "appName": "Forge",
+            "appSummary": "The unified chain launch dashboard for Cosmos.",
+            "appWebsiteUrl": "https://forge.cosmos.network/",
+            "externalUrls": {
+                "twitter": "https://x.com/cosmos",
+                "github": "https://github.com/cosmos/interchain-security"
+            },
+            "appWebsiteUrlsByChainId": {
+                "cosmoshub-4": "https://forge.cosmos.network/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Forge/icon.png"
+        },
+        {
+            "appCategory": "Tool",
             "appName": "IBC Fun",
             "appSummary": "One-click cross-chain swaps & transfers anywhere in Cosmos. Powered by Skip API.",
             "appWebsiteUrl": "https://ibc.fun/",
@@ -156,12 +170,15 @@
         {
             "appCategory": "DAO",
             "appName": "DAO DAO",
-            "appSummary": "A DAO building DAO tooling. Built on Juno.",
+            "appSummary": "Simple, capable, and free DAO toolings for Cosmos.",
             "appWebsiteUrl": "https://daodao.zone/",
             "externalUrls": {
                 "twitter": "https://twitter.com/DA0_DA0",
                 "github": "https://github.com/DA0-DA0",
                 "discord": "https://discord.com/invite/sAaGuyW3D2"
+            },
+            "appWebsiteUrlsByChainId": {
+                "cosmoshub-4": "https://daodao.zone/dao/cosmos"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/daodao/icon.png"
         },
