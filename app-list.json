@@ -207,6 +207,21 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/gravedigger/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Hydro",
+            "appSummary": "The interchain liquidity allocator",
+            "appWebsiteUrl": "https://hydro.cosmos.network",
+            "externalUrls": {
+                "twitter": "https://twitter.com/cosmoshub",
+                "github": "https://github.com/informalsystems/hydro"
+            },
+            "appWebsiteUrlsByChainId": {
+                "cosmoshub-4": "https://hydro.cosmos.network/",
+                "neutron-1": "https://hydro.cosmos.network/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro/icon.png"
+        },
+        {
             "appCategory": "Liquid Staking",
             "appName": "Hydro-protocol",
             "appSummary": "Ultimate LSD & LSDFi infrastructure Platform on Injective",
