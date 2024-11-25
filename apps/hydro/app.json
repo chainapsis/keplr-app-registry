@@ -1,0 +1,13 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Hydro",
+  "appSummary": "The interchain liquidity allocator",
+  "appWebsiteUrl": "https://hydro.cosmos.network",
+  "externalUrls": {
+    "twitter": "https://twitter.com/cosmoshub",
+    "github": "https://github.com/informalsystems/hydro"
+  }, 
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://hydro.cosmos.network/",
+    "neutron-1": "https://hydro.cosmos.network/"}
+}
