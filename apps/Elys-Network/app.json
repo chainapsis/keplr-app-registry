@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Elys Network",
+  "appSummary": "The AEZ's All-in-One Defi Appchain",
+  "appWebsiteUrl": "https://testnet.elys.network",
+  "externalUrls": {
+    "twitter": "https://twitter.com/elys_network",
+    "github": "https://github.com/elys-network",
+    "discord": "https://discord.gg/elysnetwork"
+  }
+}
