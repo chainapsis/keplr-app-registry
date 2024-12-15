@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Elys Network",
+  "appSummary": "Multi-chain DeFi at your fingertips. No limits, just endless possibilities.",
+  "appWebsiteUrl": "https://app.elys.network",
+  "externalUrls": {
+    "twitter": "https://twitter.com/elys_network",
+    "github": "https://github.com/elys-network/",
+    "discord": "https://discord.com/invite/elysnetwork"
+  }
+}
