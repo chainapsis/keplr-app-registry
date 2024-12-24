@@ -195,6 +195,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/dexter/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Elys Network",
+            "appSummary": "Multi-chain DeFi at your fingertips. No limits, just endless possibilities.",
+            "appWebsiteUrl": "https://app.elys.network",
+            "externalUrls": {
+                "twitter": "https://twitter.com/elys_network",
+                "github": "https://github.com/elys-network/",
+                "discord": "https://discord.com/invite/elysnetwork"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/elys/icon.png"
+        },
+        {
             "appCategory": "Liquid Staking",
             "appName": "Gravedigger",
             "appSummary": "Liquid Staking platform with NFT integration, 100% of the fees are given back to the stakers!",
