@@ -331,6 +331,16 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-apollo-dao/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Bull vs. Bear",
+            "appSummary": "Making perpetuals fun and simple. Long and short assets in one click while earning yield.",
+            "appWebsiteUrl": "https://BullBear.zone",
+            "externalUrls": {
+                "twitter": "https://twitter.com/bullbear_zone"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-bullbear/icon.png"
+        },
+        {
             "appCategory": "NFT",
             "appName": "Craft Network",
             "appSummary": "Craft Network is an NFT Marketplace bringing cross-chain NFT liquidity for the Interchain.",
