@@ -184,18 +184,6 @@
         },
         {
             "appCategory": "DeFi",
-            "appName": "Persistence DEX",
-            "appSummary": "Persistence DEX is a decentralized exchange for BTC and Liquid Staked Tokens (LSTs). ",
-            "appWebsiteUrl": "https://app.persistence.one",
-            "externalUrls": {
-                "twitter": "https://x.com/PersistenceOne",
-                "github": "https://github.com/dexter-zone",
-                "discord": "https://discord.persistence.one"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/dexter/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
             "appName": "Elys Network",
             "appSummary": "Multi-chain DeFi at your fingertips. No limits, just endless possibilities.",
             "appWebsiteUrl": "https://app.elys.network",
@@ -431,6 +419,18 @@
                 "discord": "https://discord.com/invite/osmosis"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/osmosis/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Persistence One",
+            "appSummary": "The BTCFi Liquidity Hub.",
+            "appWebsiteUrl": "https://app.persistence.one",
+            "externalUrls": {
+                "twitter": "https://x.com/PersistenceOne",
+                "github": "https://github.com/persistenceOne",
+                "discord": "https://discord.persistence.one"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/persistence-one/icon.png"
         },
         {
             "appCategory": "Tool",
