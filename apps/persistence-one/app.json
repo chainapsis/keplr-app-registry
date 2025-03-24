@@ -1,0 +1,11 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Persistence One",
+  "appSummary": "The BTCFi Liquidity Hub.",
+  "appWebsiteUrl": "https://app.persistence.one",
+  "externalUrls": {
+    "twitter": "https://x.com/PersistenceOne",
+    "github": "https://github.com/persistenceOne",
+    "discord": "https://discord.persistence.one"
+  }
+}
