@@ -1,11 +1,11 @@
 {
   "appCategory": "Liquid Staking",
   "appName": "pSTAKE",
-  "appSummary": "Unlocking Liquidity for Staked Assets. Stake your PoS assets while earning DeFi yields.",
+  "appSummary": "Making $BTC yield-generating for all with Bitcoin Staking. Built on Babylon, Backed by Binance Labs",
   "appWebsiteUrl": "https://app.pstake.finance/",
   "externalUrls": {
     "twitter": "https://twitter.com/pStakeFinance",
     "github": "https://github.com/persistenceOne",
-    "discord": "https://discord.com/invite/2ek5rUyT8x"
+    "discord": "https://discord.pstake.finance"
   }
 }
