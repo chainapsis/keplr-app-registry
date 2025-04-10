@@ -444,6 +444,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/picasso/icon.png"
         },
         {
+            "appCategory": "DeFi",
+            "appName": "Pryzm",
+            "appSummary": "The Layer 1 for Yield. Unlock your future yield today.",
+            "appWebsiteUrl": "https://app.pryzm.zone",
+            "externalUrls": {
+                "twitter": "https://x.com/Pryzm_Zone",
+                "github": "https://github.com/pryzm-finance",
+                "discord": "https://discord.gg/KUHvgbJvqC"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pryzm/icon.png"
+        },
+        {
             "appCategory": "Liquid Staking",
             "appName": "pSTAKE",
             "appSummary": "Making $BTC yield-generating for all with Bitcoin Staking. Built on Babylon, Backed by Binance Labs",
