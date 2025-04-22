@@ -1,0 +1,13 @@
+{
+  "appCategory": "NFT",
+  "appName": "Test app",
+  "appSummary": "Pro-Trading Terminal of Neutron aggregating all DEX and NFT.",
+  "appWebsiteUrl": "https://tfm.com/",
+  "externalUrls": {
+    "twitter": "https://twitter.com/tfm_com",
+    "discord": "https://discord.com/invite/538PrcubY9"
+  },
+  "appWebsiteUrlsByChainId": {
+    "celestia": "https://test.celestiapp.com/"
+  }
+}
