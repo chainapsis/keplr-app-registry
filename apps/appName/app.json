@@ -1,0 +1,11 @@
+{
+  "appCategory": "NFT",
+  "appName": "appName",
+  "appSummary": "test test.",
+  "appWebsiteUrl": "https://app.test.com",
+  "externalUrls": {
+    "twitter": "https://twitter.com/test",
+    "github": "https://github.com/test",
+    "discord": "https://discord.com/invite/test"
+  }
+}
