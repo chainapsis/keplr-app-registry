@@ -50,18 +50,6 @@
         },
         {
             "appCategory": "DeFi",
-            "appName": "Inter Protocol Parity Stability Module (PSM)",
-            "appSummary": "Mint IST and Cosmos stable token arbitrage",
-            "appWebsiteUrl": "https://psm.inter.trade",
-            "externalUrls": {
-                "twitter": "https://twitter.com/inter_protocol",
-                "github": "https://github.com/inter-protocol",
-                "discord": "https://discord.com/invite/interprotocol"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/InterProtocol-PSM/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
             "appName": "Inter Protocol Vaults",
             "appSummary": "Mint native Cosmosis stable token IST with IBC assets",
             "appWebsiteUrl": "https://app.inter.trade",
@@ -193,18 +181,6 @@
                 "discord": "https://discord.com/invite/elysnetwork"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/elys/icon.png"
-        },
-        {
-            "appCategory": "Liquid Staking",
-            "appName": "Gravedigger",
-            "appSummary": "Liquid Staking platform with NFT integration, 100% of the fees are given back to the stakers!",
-            "appWebsiteUrl": "https://gravedigger.zone/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/BackBone_Labs",
-                "github": "https://github.com/backbonelabsio",
-                "discord": "https://discord.gg/XDTzTcYajk"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/gravedigger/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -397,18 +373,6 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/nolus/icon.png"
         },
         {
-            "appCategory": "Tool",
-            "appName": "nRide.com",
-            "appSummary": "web3.0 powered ride-hailing protocol",
-            "appWebsiteUrl": "https://www.nride.com",
-            "externalUrls": {
-                "twitter": "https://twitter.com/nRide12",
-                "github": "https://github.com/nride",
-                "discord": "https://discord.gg/HgAmPhnZww"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/nride/icon.png"
-        },
-        {
             "appCategory": "DeFi",
             "appName": "Osmosis",
             "appSummary": "The largest Interchain DEX and cross-chain AMM.",
@@ -442,30 +406,6 @@
                 "github": "https://github.com/ComposableFi"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/picasso/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Pryzm",
-            "appSummary": "The Layer 1 for Yield. Unlock your future yield today.",
-            "appWebsiteUrl": "https://app.pryzm.zone",
-            "externalUrls": {
-                "twitter": "https://x.com/Pryzm_Zone",
-                "github": "https://github.com/pryzm-finance",
-                "discord": "https://discord.gg/KUHvgbJvqC"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pryzm/icon.png"
-        },
-        {
-            "appCategory": "Liquid Staking",
-            "appName": "pSTAKE",
-            "appSummary": "Making $BTC yield-generating for all with Bitcoin Staking. Built on Babylon, Backed by Binance Labs",
-            "appWebsiteUrl": "https://app.pstake.finance/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/pStakeFinance",
-                "github": "https://github.com/persistenceOne",
-                "discord": "https://discord.pstake.finance"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/pstake/icon.png"
         },
         {
             "appCategory": "Liquid Staking",
