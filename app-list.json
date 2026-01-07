@@ -61,18 +61,6 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/InterProtocol-PSM/icon.png"
         },
         {
-            "appCategory": "DeFi",
-            "appName": "Inter Protocol Vaults",
-            "appSummary": "Mint native Cosmosis stable token IST with IBC assets",
-            "appWebsiteUrl": "https://app.inter.trade",
-            "externalUrls": {
-                "twitter": "https://twitter.com/inter_protocol",
-                "github": "https://github.com/inter-protocol",
-                "discord": "https://discord.com/invite/interprotocol"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/InterProtocol-Vaults/icon.png"
-        },
-        {
             "appCategory": "Liquid Staking",
             "appName": "MilkyWay",
             "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
