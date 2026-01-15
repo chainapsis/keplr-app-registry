@@ -480,6 +480,17 @@
                 "discord": "https://discord.gg/CyA2B5rpKE"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
+        },
+        {
+            "appCategory": "Gaming",
+            "appName": "Civitia",
+            "appSummary": "A yield strategy appchain inspired by Monopoly",
+            "appWebsiteUrl": "https://app.civitia.org/",
+            "externalUrls": {
+                "twitter": "https://x.com/civitiaorg",
+                "discord": "https://discord.com/invite/tgCAmpUUVD"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/civitia/icon.png"
         }
     ]
 }
