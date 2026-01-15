@@ -2,39 +2,15 @@
     "list": [
         {
             "appCategory": "DeFi",
-            "appName": "Astrovault",
-            "appSummary": "DeFi, Sustainably. Outbid gamified fundraiser.",
-            "appWebsiteUrl": "https://astrovault.io/",
+            "appName": "Osmosis",
+            "appSummary": "The largest Interchain DEX and cross-chain AMM.",
+            "appWebsiteUrl": "https://app.osmosis.zone",
             "externalUrls": {
-                "twitter": "https://astrovault.io/twitter",
-                "discord": "https://astrovault.io/discord"
+                "twitter": "https://twitter.com/osmosiszone",
+                "github": "https://github.com/osmosis-labs",
+                "discord": "https://discord.com/invite/osmosis"
             },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Astrovault/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Coinhall",
-            "appSummary": "Real-time Price Charts, Analytics, DEX Aggregator & Validator for Cosmos.",
-            "appWebsiteUrl": "https://coinhall.org",
-            "externalUrls": {
-                "twitter": "https://twitter.com/coinhall_org",
-                "github": "https://github.com/coinhall"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Coinhall/icon.png"
-        },
-        {
-            "appCategory": "Tool",
-            "appName": "Forge",
-            "appSummary": "The unified chain launch dashboard for Cosmos.",
-            "appWebsiteUrl": "https://forge.cosmos.network/",
-            "externalUrls": {
-                "twitter": "https://x.com/cosmos",
-                "github": "https://github.com/cosmos/interchain-security"
-            },
-            "appWebsiteUrlsByChainId": {
-                "cosmoshub-4": "https://forge.cosmos.network/"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Forge/icon.png"
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/osmosis/icon.png"
         },
         {
             "appCategory": "Tool",
@@ -49,50 +25,52 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/IBCFun/icon.png"
         },
         {
-            "appCategory": "Liquid Staking",
-            "appName": "MilkyWay",
-            "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
-            "appWebsiteUrl": "https://app.milkyway.zone",
-            "externalUrls": {
-                "twitter": "https://twitter.com/milky_way_zone",
-                "github": "https://github.com/milkyway-labs",
-                "discord": "https://discord.gg/4ywmNE3tqq"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/MilkyWay/icon.png"
-        },
-        {
             "appCategory": "Tool",
-            "appName": "REStake.app",
-            "appSummary": "Auto-compound your staking rewards on any chain in the Cosmos ecosystem.",
-            "appWebsiteUrl": "https://restake.app/",
+            "appName": "Squid Router",
+            "appSummary": "Swap tokens between blockchains. EVM + Cosmos. Powered by Axelar.",
+            "appWebsiteUrl": "https://app.squidrouter.com/",
             "externalUrls": {
-                "twitter": "https://twitter.com/REStakeApp"
+                "twitter": "https://twitter.com/squidrouter",
+                "github": "https://github.com/0xsquid",
+                "discord": "https://discord.com/invite/squidrouter"
             },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/REStake.app/icon.png"
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/squid-router/icon.png"
+        },
+        {
+            "appCategory": "Gaming",
+            "appName": "Civitia",
+            "appSummary": "A yield strategy appchain inspired by Monopoly",
+            "appWebsiteUrl": "https://app.civitia.org/",
+            "externalUrls": {
+                "twitter": "https://x.com/civitiaorg",
+                "discord": "https://discord.com/invite/tgCAmpUUVD"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/civitia/icon.png"
+        },
+        {
+            "appCategory": "Social",
+            "appName": "ICNS",
+            "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
+            "appWebsiteUrl": "https://app.icns.xyz",
+            "externalUrls": {
+                "twitter": "https://twitter.com/icns_xyz",
+                "github": "https://github.com/icns-xyz"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png"
         },
         {
             "appCategory": "DeFi",
-            "appName": "TFM",
-            "appSummary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator!",
-            "appWebsiteUrl": "https://tfm.com/",
+            "appName": "Apollo DAO",
+            "appSummary": "Optimize your DeFi yields with smart contracts-automated Apollo Vaults strategies.",
+            "appWebsiteUrl": "https://app.apollo.farm/",
             "externalUrls": {
-                "twitter": "https://twitter.com/tfm_com",
-                "github": "https://github.com/tfm-com",
-                "discord": "https://discord.com/invite/538PrcubY9"
+                "twitter": "https://twitter.com/ApolloDAO",
+                "discord": "https://discord.com/invite/A3KWrCzt"
             },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/TFM/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Wynd DAO",
-            "appSummary": "Cross Chain DeFi Hub.",
-            "appWebsiteUrl": "https://app.wynddao.com/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/wynddao",
-                "github": "https://github.com/wynddao",
-                "discord": "https://discord.com/invite/GAMrnkbmj4"
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://app.apollo.farm/"
             },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/WyndDEX/icon.png"
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-apollo-dao/icon.png"
         },
         {
             "appCategory": "NFT",
@@ -121,15 +99,25 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/astroport/icon.png"
         },
         {
-            "appCategory": "Gaming",
-            "appName": "Civitia",
-            "appSummary": "A yield strategy appchain inspired by Monopoly",
-            "appWebsiteUrl": "https://app.civitia.org/",
+            "appCategory": "DeFi",
+            "appName": "Astrovault",
+            "appSummary": "DeFi, Sustainably. Outbid gamified fundraiser.",
+            "appWebsiteUrl": "https://astrovault.io/",
             "externalUrls": {
-                "twitter": "https://x.com/civitiaorg",
-                "discord": "https://discord.com/invite/tgCAmpUUVD"
+                "twitter": "https://astrovault.io/twitter",
+                "discord": "https://astrovault.io/discord"
             },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/civitia/icon.png"
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Astrovault/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Bull vs. Bear",
+            "appSummary": "The easiest place to trade on crypto narratives.",
+            "appWebsiteUrl": "https://BullBear.zone",
+            "externalUrls": {
+                "twitter": "https://twitter.com/bullbear_zone"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-bullbear/icon.png"
         },
         {
             "appCategory": "Tool",
@@ -144,6 +132,17 @@
         },
         {
             "appCategory": "DeFi",
+            "appName": "Coinhall",
+            "appSummary": "Real-time Price Charts, Analytics, DEX Aggregator & Validator for Cosmos.",
+            "appWebsiteUrl": "https://coinhall.org",
+            "externalUrls": {
+                "twitter": "https://twitter.com/coinhall_org",
+                "github": "https://github.com/coinhall"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Coinhall/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "Cosmos Millions",
             "appSummary": "The Interchain prize-linked savings account.",
             "appWebsiteUrl": "https://cosmosmillions.com/dashboard",
@@ -153,6 +152,20 @@
                 "discord": "https://discord.gg/xnBsSW9WqT"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/cosmos-millions/icon.png"
+        },
+        {
+            "appCategory": "NFT",
+            "appName": "Craft Network",
+            "appSummary": "Craft Network is an NFT Marketplace bringing cross-chain NFT liquidity for the Interchain.",
+            "appWebsiteUrl": "https://craft.network/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/craftdotnetwork",
+                "discord": "https://discord.com/invite/TaG8SfmAVH"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://craft.network/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-craft-network/icon.png"
         },
         {
             "appCategory": "DAO",
@@ -171,6 +184,20 @@
         },
         {
             "appCategory": "DeFi",
+            "appName": "Eclipse Fi",
+            "appSummary": "A liquidity hub for the future of community token distributions across the Interchain.",
+            "appWebsiteUrl": "https://eclipsefi.io/home/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/Eclipsefi",
+                "discord": "https://discord.com/invite/ybDkvQ2Qp5"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://eclipsefi.io/home/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-eclipse/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
             "appName": "Elys Network",
             "appSummary": "Multi-chain DeFi at your fingertips. No limits, just endless possibilities.",
             "appWebsiteUrl": "https://app.elys.network",
@@ -180,6 +207,20 @@
                 "discord": "https://discord.com/invite/elysnetwork"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/elys/icon.png"
+        },
+        {
+            "appCategory": "Tool",
+            "appName": "Forge",
+            "appSummary": "The unified chain launch dashboard for Cosmos.",
+            "appWebsiteUrl": "https://forge.cosmos.network/",
+            "externalUrls": {
+                "twitter": "https://x.com/cosmos",
+                "github": "https://github.com/cosmos/interchain-security"
+            },
+            "appWebsiteUrlsByChainId": {
+                "cosmoshub-4": "https://forge.cosmos.network/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Forge/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -206,17 +247,6 @@
                 "discord": "https://hydroprotocol.finance/discord"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro-protocol/icon.png"
-        },
-        {
-            "appCategory": "Social",
-            "appName": "ICNS",
-            "appSummary": "InterChain Name Service. Portable identity for the Interchain.",
-            "appWebsiteUrl": "https://app.icns.xyz",
-            "externalUrls": {
-                "twitter": "https://twitter.com/icns_xyz",
-                "github": "https://github.com/icns-xyz"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/icns/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -269,6 +299,18 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/mars-protocol/icon.png"
         },
         {
+            "appCategory": "Liquid Staking",
+            "appName": "MilkyWay",
+            "appSummary": "Liquid staking protocol tailor-made for Celestia's modular ecosystem.",
+            "appWebsiteUrl": "https://app.milkyway.zone",
+            "externalUrls": {
+                "twitter": "https://twitter.com/milky_way_zone",
+                "github": "https://github.com/milkyway-labs",
+                "discord": "https://discord.gg/4ywmNE3tqq"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/MilkyWay/icon.png"
+        },
+        {
             "appCategory": "DeFi",
             "appName": "Neptune Finance",
             "appSummary": "Lend, borrow and build with better rates.",
@@ -278,72 +320,6 @@
                 "discord": "https://discord.gg/bh8nFtcf5d"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neptune-finance/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Apollo DAO",
-            "appSummary": "Optimize your DeFi yields with smart contracts-automated Apollo Vaults strategies.",
-            "appWebsiteUrl": "https://app.apollo.farm/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/ApolloDAO",
-                "discord": "https://discord.com/invite/A3KWrCzt"
-            },
-            "appWebsiteUrlsByChainId": {
-                "neutron-1": "https://app.apollo.farm/"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-apollo-dao/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Bull vs. Bear",
-            "appSummary": "The easiest place to trade on crypto narratives.",
-            "appWebsiteUrl": "https://BullBear.zone",
-            "externalUrls": {
-                "twitter": "https://twitter.com/bullbear_zone"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-bullbear/icon.png"
-        },
-        {
-            "appCategory": "NFT",
-            "appName": "Craft Network",
-            "appSummary": "Craft Network is an NFT Marketplace bringing cross-chain NFT liquidity for the Interchain.",
-            "appWebsiteUrl": "https://craft.network/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/craftdotnetwork",
-                "discord": "https://discord.com/invite/TaG8SfmAVH"
-            },
-            "appWebsiteUrlsByChainId": {
-                "neutron-1": "https://craft.network/"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-craft-network/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Eclipse Fi",
-            "appSummary": "A liquidity hub for the future of community token distributions across the Interchain.",
-            "appWebsiteUrl": "https://eclipsefi.io/home/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/Eclipsefi",
-                "discord": "https://discord.com/invite/ybDkvQ2Qp5"
-            },
-            "appWebsiteUrlsByChainId": {
-                "neutron-1": "https://eclipsefi.io/home/"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-eclipse/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "TFM",
-            "appSummary": "Pro-Trading Terminal of Neutron aggregating all DEX and NFT.",
-            "appWebsiteUrl": "https://tfm.com/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/tfm_com",
-                "discord": "https://discord.com/invite/538PrcubY9"
-            },
-            "appWebsiteUrlsByChainId": {
-                "neutron-1": "https://neutron.tfm.com/"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-tfm/icon.png"
         },
         {
             "appCategory": "Social",
@@ -370,18 +346,6 @@
                 "neutron-1": "https://app.nolus.io/"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/nolus/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Osmosis",
-            "appSummary": "The largest Interchain DEX and cross-chain AMM.",
-            "appWebsiteUrl": "https://app.osmosis.zone",
-            "externalUrls": {
-                "twitter": "https://twitter.com/osmosiszone",
-                "github": "https://github.com/osmosis-labs",
-                "discord": "https://discord.com/invite/osmosis"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/osmosis/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -433,6 +397,16 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/redbank/icon.png"
         },
         {
+            "appCategory": "Tool",
+            "appName": "REStake.app",
+            "appSummary": "Auto-compound your staking rewards on any chain in the Cosmos ecosystem.",
+            "appWebsiteUrl": "https://restake.app/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/REStakeApp"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/REStake.app/icon.png"
+        },
+        {
             "appCategory": "DeFi",
             "appName": "Shade Protocol",
             "appSummary": "Private DeFi Hub of the Cosmos, borrow and earn with SILK, the largest private decentralised stable in the cosmos",
@@ -443,18 +417,6 @@
                 "discord": "https://discord.gg/shade-protocol-905665558610051113"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/shade-protocol/icon.png"
-        },
-        {
-            "appCategory": "Tool",
-            "appName": "Squid Router",
-            "appSummary": "Swap tokens between blockchains. EVM + Cosmos. Powered by Axelar.",
-            "appWebsiteUrl": "https://app.squidrouter.com/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/squidrouter",
-                "github": "https://github.com/0xsquid",
-                "discord": "https://discord.com/invite/squidrouter"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/squid-router/icon.png"
         },
         {
             "appCategory": "NFT",
@@ -491,6 +453,44 @@
                 "discord": "https://discord.gg/CyA2B5rpKE"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "TFM",
+            "appSummary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator!",
+            "appWebsiteUrl": "https://tfm.com/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/tfm_com",
+                "github": "https://github.com/tfm-com",
+                "discord": "https://discord.com/invite/538PrcubY9"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/TFM/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "TFM",
+            "appSummary": "Pro-Trading Terminal of Neutron aggregating all DEX and NFT.",
+            "appWebsiteUrl": "https://tfm.com/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/tfm_com",
+                "discord": "https://discord.com/invite/538PrcubY9"
+            },
+            "appWebsiteUrlsByChainId": {
+                "neutron-1": "https://neutron.tfm.com/"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-tfm/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Wynd DAO",
+            "appSummary": "Cross Chain DeFi Hub.",
+            "appWebsiteUrl": "https://app.wynddao.com/",
+            "externalUrls": {
+                "twitter": "https://twitter.com/wynddao",
+                "github": "https://github.com/wynddao",
+                "discord": "https://discord.com/invite/GAMrnkbmj4"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/WyndDEX/icon.png"
         }
     ]
 }
