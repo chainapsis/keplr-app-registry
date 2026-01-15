@@ -121,6 +121,17 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/astroport/icon.png"
         },
         {
+            "appCategory": "Gaming",
+            "appName": "Civitia",
+            "appSummary": "A yield strategy appchain inspired by Monopoly",
+            "appWebsiteUrl": "https://app.civitia.org/",
+            "externalUrls": {
+                "twitter": "https://x.com/civitiaorg",
+                "discord": "https://discord.com/invite/tgCAmpUUVD"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/civitia/icon.png"
+        },
+        {
             "appCategory": "Tool",
             "appName": "Cloudmos",
             "appSummary": "Cloudmos is the #1 platform to deploy docker containers on the Akash Network, a decentralized cloud compute marketplace. Explore, deploy and track all in one place!",
@@ -480,17 +491,6 @@
                 "discord": "https://discord.gg/CyA2B5rpKE"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
-        },
-        {
-            "appCategory": "Gaming",
-            "appName": "Civitia",
-            "appSummary": "A yield strategy appchain inspired by Monopoly",
-            "appWebsiteUrl": "https://app.civitia.org/",
-            "externalUrls": {
-                "twitter": "https://x.com/civitiaorg",
-                "discord": "https://discord.com/invite/tgCAmpUUVD"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/civitia/icon.png"
         }
     ]
 }
