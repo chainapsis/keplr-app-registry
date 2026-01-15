@@ -8,6 +8,7 @@ const appCategoryAllowList = [
   "DAO",
   "Tool",
   "Liquid Staking",
+  "Gaming",
 ];
 
 const appSchema = Joi.object({
