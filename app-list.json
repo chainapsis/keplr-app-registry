@@ -122,16 +122,6 @@
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Astrovault/icon.png"
         },
         {
-            "appCategory": "DeFi",
-            "appName": "Bull vs. Bear",
-            "appSummary": "The easiest place to trade on crypto narratives.",
-            "appWebsiteUrl": "https://BullBear.zone",
-            "externalUrls": {
-                "twitter": "https://twitter.com/bullbear_zone"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/neutron-bullbear/icon.png"
-        },
-        {
             "appCategory": "Tool",
             "appName": "Cloudmos",
             "appSummary": "Cloudmos is the #1 platform to deploy docker containers on the Akash Network, a decentralized cloud compute marketplace. Explore, deploy and track all in one place!",
@@ -152,18 +142,6 @@
                 "github": "https://github.com/coinhall"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/Coinhall/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "Cosmos Millions",
-            "appSummary": "The Interchain prize-linked savings account.",
-            "appWebsiteUrl": "https://cosmosmillions.com/dashboard",
-            "externalUrls": {
-                "twitter": "https://twitter.com/cosmosmillions",
-                "github": "https://github.com/lum-network/chain/tree/master/x/millions",
-                "discord": "https://discord.gg/xnBsSW9WqT"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/cosmos-millions/icon.png"
         },
         {
             "appCategory": "NFT",
@@ -259,6 +237,17 @@
                 "discord": "https://hydroprotocol.finance/discord"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro-protocol/icon.png"
+        },
+        {
+            "appCategory": "Gaming",
+            "appName": "Hyper Ninja",
+            "appSummary": "Hyper Ninja is a Web3 game on Injective featuring on-chain crafting and clans.",
+            "appWebsiteUrl": "https://hyperninja.io/",
+            "externalUrls": {
+                "twitter": "https://x.com/HyperNinja_INJ",
+                "discord": "https://discord.com/invite/hyperninja"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hyper-ninja/icon.png"
         },
         {
             "appCategory": "DeFi",
@@ -441,18 +430,6 @@
                 "discord": "https://discord.gg/CyA2B5rpKE"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/talis/icon.png"
-        },
-        {
-            "appCategory": "DeFi",
-            "appName": "TFM",
-            "appSummary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator!",
-            "appWebsiteUrl": "https://tfm.com/",
-            "externalUrls": {
-                "twitter": "https://twitter.com/tfm_com",
-                "github": "https://github.com/tfm-com",
-                "discord": "https://discord.com/invite/538PrcubY9"
-            },
-            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/TFM/icon.png"
         },
         {
             "appCategory": "DeFi",
