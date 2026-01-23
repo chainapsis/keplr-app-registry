@@ -5,6 +5,7 @@
   "scripts": {
     "validate-app": "ts-node src/validate-app.ts",
     "validate-icon": "ts-node src/validate-icon.ts",
+    "validate-sort-config": "ts-node src/validate-sort-config.ts",
     "make-app-list": "ts-node src/make-app-list.ts"
   },
   "repository": {
