@@ -42,7 +42,7 @@ Please note that you need to comply with our requirements when filling out the f
 
 ### App Information Details
 
-- `appCategory`: Please select ONE from `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, and `Liquid Staking` (case-sensitive!). Your category should be the one that best describes the main function or subject matter of your application.
+- `appCategory`: Please select ONE from `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, `Liquid Staking`, and `Gaming` (case-sensitive!). Your category should be the one that best describes the main function or subject matter of your application.
 - `appName`: The name of your application.
 - `appSummary`: Write out a one-liner (or two at max) to introduce your application. It won't be fully displayed in the box if the intro is too long.
 - `appWebsiteUrl`: Provide the link to your app's website.
