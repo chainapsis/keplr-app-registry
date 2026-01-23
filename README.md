@@ -36,17 +36,29 @@ Please note that you need to comply with our requirements when filling out the f
     "twitter": "https://twitter.com/osmosiszone",
     "github": "https://github.com/osmosis-labs",
     "discord": "https://discord.com/invite/osmosis"
+  },
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://app.osmosis.zone/cosmos"
   }
 }
 ```
 
 ### App Information Details
 
-- `appCategory`: Please select ONE from `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, and `Liquid Staking` (case-sensitive!). Your category should be the one that best describes the main function or subject matter of your application.
+- `appCategory`: Please select ONE from `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, `Liquid Staking`, and `Gaming` (case-sensitive!). Your category should be the one that best describes the main function or subject matter of your application.
 - `appName`: The name of your application.
 - `appSummary`: Write out a one-liner (or two at max) to introduce your application. It won't be fully displayed in the box if the intro is too long.
 - `appWebsiteUrl`: Provide the link to your app's website.
-- `externalUrls`: Provide the links to your app's official social accounts. Currently we only support: `Twitter`, `Github`, and `Discord`.
+- `externalUrls`: Provide the links to your app's official social accounts. At least one is required. Currently we support: `twitter`, `github`, and `discord`.
+- `appWebsiteUrlsByChainId` (optional): A map of chain IDs to chain-specific URLs for your app. Use this if your app has different URLs depending on the chain.
+
+## App List Ordering
+
+The generated `app-list.json` is ordered as follows:
+1. **Pinned apps** appear first, in the order defined in `sort-config.json`.
+2. **All other apps** are sorted alphabetically by `appName`.
+
+Note: Pinning is managed by the Keplr team.
 
 ## NOTE:
 
