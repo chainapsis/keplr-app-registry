@@ -1,0 +1,14 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Solid Protocol",
+  "appSummary": "Lend, borrow and mint a USDC-pegged stablecoin on Terra2 — plus the Atrium NFT marketplace.",
+  "appWebsiteUrl": "https://app.solidcapa.com",
+  "externalUrls": {
+    "twitter": "https://twitter.com/solid_capa",
+    "github": "https://github.com/solid-online",
+    "discord": "https://discord.gg/EXxBfhEz28"
+  },
+  "appWebsiteUrlsByChainId": {
+    "phoenix-1": "https://app.solidcapa.com"
+  }
+}
