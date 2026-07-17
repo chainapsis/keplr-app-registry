@@ -1,30 +1,29 @@
-# Guidelines for Submitting Your App to Keplr Dashboard
+# Keplr App Registry
 
-‼️ PLEASE NOTE: To ensure that the apps featured on our Explore page are always relevant and useful, we will be regularly reviewing and updating the app list based on user traction. 
+Guidelines for submitting your app to the Keplr Dashboard Explore page.
 
-This page outlines the basic information that is required for registering your Interchain application to Keplr dashboard. Please note that your request does not always guarantee its display on the dashboard; upon your submission, Keplr team will go through a minimal verification process to see if there is any security issues or missing information.
+> **Note:** To ensure that the apps featured on our Explore page remain relevant and useful, we regularly review and update the app list based on user traction.
 
-Once approved, Keplr Dashboard will show your application in its Explore page, with the information you've submitted.
+## Overview
 
-## App Registration Directory Structure
+This document outlines the requirements for registering your Interchain application to the Keplr Dashboard. Please note that submission does not guarantee display on the dashboard. The Keplr team will review each submission for security issues and completeness before approval.
 
-Here’s an overview of the structure of the directory. Please provide the information and files complying with the requirements.
+Once approved, your application will appear on the Keplr Dashboard Explore page with the information you've submitted.
 
-```
-.
-├── apps
-│     ├── osmosis              # Name the folder to match the name of your app
-│     │     ├── app.json       # App information in JSON file (file name should be `app.json`)
-│     │     └── icon.png       # App icon in image file (png, 256x256 or smaller, file name should be `icon.png`)
-│     ├── icns
-│     └── ...
-└── ...
+## Directory Structure
+
+Create a folder for your app under the `apps/` directory with the following structure:
 
 ```
+apps/
+└── your-app-name/           # Folder name should match your app name (lowercase, hyphenated)
+    ├── app.json             # App information (required)
+    └── icon.png             # App icon (required)
+```
 
-## App Information JSON File Form (Example)
+## App Information (`app.json`)
 
-Please note that you need to comply with our requirements when filling out the form. See the next section to learn the details.
+Create an `app.json` file with the following structure:
 
 ```json
 {
@@ -43,25 +42,34 @@ Please note that you need to comply with our requirements when filling out the f
 }
 ```
 
-### App Information Details
+### Field Descriptions
 
-- `appCategory`: Please select ONE from `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, `Liquid Staking`, and `Gaming` (case-sensitive!). Your category should be the one that best describes the main function or subject matter of your application.
-- `appName`: The name of your application.
-- `appSummary`: Write out a one-liner (or two at max) to introduce your application. It won't be fully displayed in the box if the intro is too long.
-- `appWebsiteUrl`: Provide the link to your app's website.
-- `externalUrls`: Provide the links to your app's official social accounts. At least one is required. Currently we support: `twitter`, `github`, and `discord`.
-- `appWebsiteUrlsByChainId` (optional): A map of chain IDs to chain-specific URLs for your app. Use this if your app has different URLs depending on the chain.
+| Field | Required | Description |
+|-------|----------|-------------|
+| `appCategory` | Yes | One of: `DeFi`, `Social`, `NFT`, `DAO`, `Tool`, `Liquid Staking`, `Gaming` (case-sensitive) |
+| `appName` | Yes | The display name of your application |
+| `appSummary` | Yes | A brief description (1-2 sentences). Longer text may be truncated in the UI |
+| `appWebsiteUrl` | Yes | The main URL of your application |
+| `externalUrls` | Yes | At least one social link is required. Supported: `twitter`, `github`, `discord` |
+| `appWebsiteUrlsByChainId` | No | Chain-specific URLs mapped by chain ID (e.g., `cosmoshub-4`) |
+
+## App Icon (`icon.png`)
+
+- **Format:** PNG
+- **Size:** 256x256 pixels or smaller
+- **Display:** Icons are automatically cropped to a circle on the dashboard
 
 ## App List Ordering
 
 The generated `app-list.json` is ordered as follows:
-1. **Pinned apps** appear first, in the order defined in `sort-config.json`.
-2. **All other apps** are sorted alphabetically by `appName`.
 
-Note: Pinning is managed by the Keplr team.
+1. **Pinned apps** appear first, in the order defined in `sort-config.json`
+2. **All other apps** are sorted alphabetically by `appName`
 
-## NOTE:
+> **Note:** Pinning is managed by the Keplr team.
 
-- Please double-check if the app information file is in JSON format.
-- App icon should be in PNG format in 256x256px or smaller resolution. Please also note that the images will be automatically cropped into a circle to be displayed on Keplr Dashboard.
-- DON'T UPDATE `app-list.json` DIRECTLY. It's auto-generated file from reading files in `apps/` for getting apps info easily.
+## Important Notes
+
+- Do **not** edit `app-list.json` directly — it is auto-generated from the `apps/` directory
+- Ensure your `app.json` is valid JSON before submitting
+- Double-check that your icon meets the format and size requirements
