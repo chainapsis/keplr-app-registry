@@ -1,0 +1,12 @@
+{
+  "appCategory": "NFT",
+  "appName": "Collexium",
+  "appSummary": "NFT marketplace on Axiome. Create collections, mint, and trade at a fixed price or auction.",
+  "appWebsiteUrl": "https://collexium.pro",
+  "externalUrls": {
+    "twitter": "https://x.com/collexiumX"
+  },
+  "appWebsiteUrlsByChainId": {
+    "axiome-1": "https://collexium.pro"
+  }
+}
