@@ -214,16 +214,15 @@
         },
         {
             "appCategory": "DeFi",
-            "appName": "Hydro",
+            "appName": "Hydro Auctions",
             "appSummary": "The interchain liquidity allocator",
-            "appWebsiteUrl": "https://hydro.cosmos.network",
+            "appWebsiteUrl": "https://hydro.markets/v2",
             "externalUrls": {
-                "twitter": "https://twitter.com/cosmoshub",
+                "twitter": "https://x.com/hydromarkets",
                 "github": "https://github.com/informalsystems/hydro"
             },
             "appWebsiteUrlsByChainId": {
-                "cosmoshub-4": "https://hydro.cosmos.network/",
-                "neutron-1": "https://hydro.cosmos.network/"
+                "cosmoshub-4": "https://hydro.markets/v2"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro/icon.png"
         },
@@ -248,6 +247,19 @@
                 "discord": "https://discord.com/invite/hyperninja"
             },
             "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hyper-ninja/icon.png"
+        },
+        {
+            "appCategory": "DeFi",
+            "appName": "Inflow",
+            "appSummary": "Deposit and earn stable, risk-adjusted yield while Hydro manages DeFi complexity across protocols and chains.",
+            "appWebsiteUrl": "https://hydro.markets/inflow",
+            "externalUrls": {
+                "twitter": "https://x.com/hydromarkets"
+            },
+            "appWebsiteUrlsByChainId": {
+                "cosmoshub-4": "https://hydro.markets/inflow"
+            },
+            "appIconUrl": "https://raw.githubusercontent.com/chainapsis/keplr-app-registry/main/apps/hydro-inflow/icon.png"
         },
         {
             "appCategory": "DeFi",
