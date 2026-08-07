@@ -1,0 +1,12 @@
+{
+  "appCategory": "DeFi",
+  "appName": "Inflow",
+  "appSummary": "Deposit and earn stable, risk-adjusted yield while Hydro manages DeFi complexity across protocols and chains.",
+  "appWebsiteUrl": "https://hydro.markets/inflow",
+  "externalUrls": {
+    "twitter": "https://x.com/hydromarkets"
+  },
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://hydro.markets/inflow"
+  }
+}
