@@ -1,0 +1,13 @@
+{
+  "appCategory": "NFT",
+  "appName": "WOF",
+  "appSummary": "A generative artwork you play in the browser. Make your twelve-second loop and mint it from your own wallet.",
+  "appWebsiteUrl": "https://wof.artis.love/atom/",
+  "externalUrls": {
+    "twitter": "https://x.com/artisdotlove",
+    "discord": "https://discord.gg/BYPzr7ypbE"
+  },
+  "appWebsiteUrlsByChainId": {
+    "cosmoshub-4": "https://wof.artis.love/atom/"
+  }
+}
